@@ -1,0 +1,896 @@
+Rank,Date,Tm,,Opp,,,Scorer,Age,Cr. Goal #,Assist1,Assist2,Goalie,Per.,Time,Strength,Other,Arena Name
+1,2025-04-06,WSH,@,NYI,L,,Alex Ovechkin,39-201,895,Tom Wilson,Dylan Strome,Ilya Sorokin,2,07:26,PP,,UBS Arena
+2,2025-04-04,WSH,,CHI,W,,Alex Ovechkin,39-199,894,John Carlson,Andrew Mangiapane,Spencer Knight,3,06:13,PP,,Capital One Arena
+3,2025-04-04,WSH,,CHI,W,,Alex Ovechkin,39-199,893,Dylan Strome,John Carlson,Spencer Knight,1,03:52,EV,,Capital One Arena
+4,2025-04-02,WSH,@,CAR,L,,Alex Ovechkin,39-197,892,Jakob Chychrun,Dylan Strome,Frederik Andersen,2,19:25,PP,,Lenovo Center
+5,2025-04-01,WSH,@,BOS,W,,Alex Ovechkin,39-196,891,Dylan Strome,John Carlson,Jeremy Swayman,1,15:43,PP,,TD Garden
+6,2025-03-30,WSH,,BUF,L,,Alex Ovechkin,39-194,890,Rasmus Sandin,Trevor van Riemsdyk,James Reimer,3,09:11,EV,,Capital One Arena
+7,2025-03-25,WSH,@,WPG,L,OT,Alex Ovechkin,39-189,889,Aliaksei Protas,Trevor van Riemsdyk,Connor Hellebuyck,3,16:00,EV,,Canada Life Centre
+8,2025-03-20,WSH,,PHI,W,,Alex Ovechkin,39-184,888,Aliaksei Protas,Trevor van Riemsdyk,Samuel Ersson,1,14:25,EV,,Capital One Arena
+9,2025-03-15,WSH,@,SJS,W,,Alex Ovechkin,39-179,887,Martin Fehérváry,Pierre-Luc Dubois,Georgi Romanov,3,10:54,EV,,SAP Center at San Jose
+10,2025-03-09,WSH,,SEA,W,,Alex Ovechkin,39-173,886,Tom Wilson,Nic Dowd,,3,18:31,EV,EN,Capital One Arena
+11,2025-03-05,WSH,@,NYR,W,OT,Alex Ovechkin,39-169,885,Andrew Mangiapane,Ethen Frank,Igor Shesterkin,3,10:28,PP,,Madison Square Garden (IV)
+12,2025-03-01,WSH,,TBL,L,,Alex Ovechkin,39-165,884,Matt Roy,,Andrei Vasilevskiy,3,16:01,EV,,Capital One Arena
+13,2025-02-25,WSH,,CGY,L,,Alex Ovechkin,39-161,883,John Carlson,Dylan Strome,Daniel Vladař,3,04:52,PP,,Capital One Arena
+14,2025-02-23,WSH,,EDM,W,,Alex Ovechkin,39-159,881,Jakob Chychrun,,Calvin Pickard,2,18:39,PP,,Capital One Arena
+15,2025-02-23,WSH,,EDM,W,,Alex Ovechkin,39-159,882,,,,3,17:22,EV,EN,Capital One Arena
+16,2025-02-23,WSH,,EDM,W,,Alex Ovechkin,39-159,880,Dylan Strome,Aliaksei Protas,Calvin Pickard,2,08:53,EV,,Capital One Arena
+17,2025-02-06,WSH,@,PHI,W,,Alex Ovechkin,39-142,879,Martin Fehérváry,Dylan Strome,Ivan Fedotov,1,19:07,EV,,Wells Fargo Center
+18,2025-02-04,WSH,,FLA,W,,Alex Ovechkin,39-140,878,Martin Fehérváry,Nic Dowd,,3,19:59,EV,EN,Capital One Arena
+19,2025-02-01,WSH,,WPG,L,OT,Alex Ovechkin,39-137,877,Tom Wilson,Matt Roy,Connor Hellebuyck,3,12:21,EV,,Capital One Arena
+20,2025-01-30,WSH,@,OTT,L,OT,Alex Ovechkin,39-135,876,Aliaksei Protas,Connor McMichael,Anton Forsberg,3,13:01,PP,,Canadian Tire Centre
+21,2025-01-23,WSH,@,SEA,W,,Alex Ovechkin,39-128,875,Trevor van Riemsdyk,Jakob Chychrun,,3,16:32,EV,EN,Climate Pledge Arena
+22,2025-01-16,WSH,@,OTT,W,OT,Alex Ovechkin,39-121,874,Rasmus Sandin,,Leevi Merilainen,OT,03:07,EV,,Canadian Tire Centre
+23,2025-01-11,WSH,@,NSH,W,,Alex Ovechkin,39-116,873,,,,3,19:01,EV,EN,Bridgestone Arena
+24,2025-01-04,WSH,,NYR,W,,Alex Ovechkin,39-109,872,Dylan Strome,,Jonathan Quick,3,10:50,EV,,Capital One Arena
+25,2025-01-02,WSH,,MIN,L,SO,Alex Ovechkin,39-107,871,Dylan Strome,,Marc-André Fleury,2,15:08,PP,,Capital One Arena
+26,2024-12-29,WSH,@,DET,L,,Alex Ovechkin,39-103,870,Jakob Chychrun,Connor McMichael,Alex Lyon,1,12:04,EV,,Little Caesars Arena
+27,2024-12-28,WSH,@,TOR,W,,Alex Ovechkin,39-102,869,Aliaksei Protas,Pierre-Luc Dubois,,3,16:37,EV,EN,Scotiabank Arena
+28,2024-11-18,WSH,@,UTA,W,,Alex Ovechkin,39-062,868,John Carlson,Dylan Strome,Connor Ingram,2,05:38,PP,,Delta Center
+29,2024-11-18,WSH,@,UTA,W,,Alex Ovechkin,39-062,867,Pierre-Luc Dubois,,Connor Ingram,1,11:05,EV,,Delta Center
+30,2024-11-17,WSH,@,VEG,W,,Alex Ovechkin,39-061,864,John Carlson,Dylan Strome,Ilya Samsonov,1,05:59,PP,,T-Mobile Arena
+31,2024-11-17,WSH,@,VEG,W,,Alex Ovechkin,39-061,866,Aliaksei Protas,Martin Fehérváry,,3,19:23,EV,EN,T-Mobile Arena
+32,2024-11-17,WSH,@,VEG,W,,Alex Ovechkin,39-061,865,Matt Roy,,Ilya Samsonov,2,17:38,EV,,T-Mobile Arena
+33,2024-11-09,WSH,@,STL,W,,Alex Ovechkin,39-053,863,Dylan Strome,Tom Wilson,Jordan Binnington,3,02:09,PP,,Enterprise Center
+34,2024-11-09,WSH,@,STL,W,,Alex Ovechkin,39-053,862,Aliaksei Protas,Dylan Strome,Jordan Binnington,2,07:42,EV,,Enterprise Center
+35,2024-11-06,WSH,,NSH,W,,Alex Ovechkin,39-050,861,Dylan Strome,Martin Fehérváry,Juuse Saros,3,10:25,EV,,Capital One Arena
+36,2024-11-03,WSH,@,CAR,L,,Alex Ovechkin,39-047,860,John Carlson,Dylan Strome,Pyotr Kochetkov,1,19:16,PP,,Lenovo Center
+37,2024-11-02,WSH,,CBJ,W,,Alex Ovechkin,39-046,859,Dylan Strome,Aliaksei Protas,Daniil Tarasov,1,14:34,EV,,Capital One Arena
+38,2024-10-31,WSH,,MTL,W,,Alex Ovechkin,39-044,858,Aliaksei Protas,Dylan Strome,Cayden Primeau,3,12:27,EV,,Capital One Arena
+39,2024-10-29,WSH,,NYR,W,,Alex Ovechkin,39-042,857,Aliaksei Protas,Dylan Strome,Igor Shesterkin,1,05:10,EV,,Capital One Arena
+40,2024-10-29,WSH,,NYR,W,,Alex Ovechkin,39-042,856,Dylan Strome,Aliaksei Protas,Igor Shesterkin,1,03:23,EV,,Capital One Arena
+41,2024-10-23,WSH,,PHI,W,,Alex Ovechkin,39-036,855,Dylan Strome,,,3,18:50,EV,EN,Capital One Arena
+42,2024-10-19,WSH,@,NJD,W,OT,Alex Ovechkin,39-032,854,John Carlson,Dylan Strome,Jacob Markström,1,14:18,EV,,Prudential Center
+43,2024-04-16,WSH,@,PHI,W,,Alex Ovechkin,38-212,853,Dylan McIlrath,T.J. Oshie,Samuel Ersson,1,18:08,EV,,Wells Fargo Center
+44,2024-04-09,WSH,@,DET,W,,Alex Ovechkin,38-205,852,T.J. Oshie,,Alex Lyon,2,19:52,EV,,Little Caesars Arena
+45,2024-04-05,WSH,@,CAR,L,,Alex Ovechkin,38-201,851,John Carlson,Dylan Strome,Pyotr Kochetkov,1,19:15,EV,,PNC Arena
+46,2024-04-05,WSH,@,CAR,L,,Alex Ovechkin,38-201,850,Dylan Strome,Trevor van Riemsdyk,Pyotr Kochetkov,1,03:31,EV,,PNC Arena
+47,2024-04-04,WSH,,PIT,L,,Alex Ovechkin,38-200,849,Sonny Milano,Hendrix Lapierre,Alex Nedeljkovic,3,06:02,PP,,Capital One Arena
+48,2024-03-24,WSH,,WPG,W,,Alex Ovechkin,38-189,848,Dylan Strome,T.J. Oshie,Connor Hellebuyck,3,12:00,EV,,Capital One Arena
+49,2024-03-24,WSH,,WPG,W,,Alex Ovechkin,38-189,847,Connor McMichael,,Connor Hellebuyck,3,03:36,EV,,Capital One Arena
+50,2024-03-22,WSH,,CAR,W,SO,Alex Ovechkin,38-187,846,Dylan Strome,Ivan Miroshnichenko,Pyotr Kochetkov,2,13:59,PP,,Capital One Arena
+51,2024-03-20,WSH,,TOR,L,,Alex Ovechkin,38-185,844,John Carlson,Tom Wilson,Joseph Woll,2,09:57,PP,,Capital One Arena
+52,2024-03-20,WSH,,TOR,L,,Alex Ovechkin,38-185,845,Dylan Strome,,Joseph Woll,3,06:42,EV,,Capital One Arena
+53,2024-03-18,WSH,@,CGY,W,,Alex Ovechkin,38-183,843,John Carlson,Dylan Strome,Dustin Wolf,2,09:16,PP,,Scotiabank Saddledome
+54,2024-03-18,WSH,@,CGY,W,,Alex Ovechkin,38-183,842,Max Pacioretty,Tom Wilson,Dustin Wolf,2,05:58,PP,,Scotiabank Saddledome
+55,2024-03-16,WSH,@,VAN,W,,Alex Ovechkin,38-181,841,Connor McMichael,Alexander Alexeyev,Casey DeSmith,2,07:54,EV,,Rogers Arena
+56,2024-03-07,WSH,@,PIT,W,,Alex Ovechkin,38-172,840,Dylan Strome,John Carlson,Tristan Jarry,2,00:30,PP,,PPG Paints Arena
+57,2024-03-01,WSH,,PHI,W,,Alex Ovechkin,38-166,839,Tom Wilson,Hendrix Lapierre,Samuel Ersson,2,04:34,EV,,Capital One Arena
+58,2024-02-20,WSH,,NJD,W,,Alex Ovechkin,38-156,838,Dylan Strome,T.J. Oshie,Nico Daws,3,19:27,PP,,Capital One Arena
+59,2024-02-20,WSH,,NJD,W,,Alex Ovechkin,38-156,837,Dylan Strome,,Nico Daws,3,08:44,EV,,Capital One Arena
+60,2024-02-13,WSH,,COL,L,,Alex Ovechkin,38-149,836,John Carlson,Anthony Mantha,Alexandar Georgiev,3,09:00,PP,,Capital One Arena
+61,2024-02-11,WSH,,VAN,L,OT,Alex Ovechkin,38-147,835,Dylan Strome,T.J. Oshie,Thatcher Demko,2,07:37,EV,,Capital One Arena
+62,2024-02-10,WSH,@,BOS,W,,Alex Ovechkin,38-146,834,Beck Malenstyn,,,3,19:33,EV,EN,TD Garden
+63,2024-02-08,WSH,@,FLA,L,,Alex Ovechkin,38-144,833,Rasmus Sandin,Connor McMichael,Sergei Bobrovsky,1,16:38,PP,,Amerant Bank Arena
+64,2024-02-06,WSH,,MTL,L,,Alex Ovechkin,38-142,832,Dylan Strome,Martin Fehérváry,Sam Montembeault,2,06:03,EV,,Capital One Arena
+65,2024-01-27,WSH,@,DAL,L,OT,Alex Ovechkin,38-132,831,T.J. Oshie,Evgeny Kuznetsov,Jake Oettinger,3,18:00,PP,,American Airlines Center
+66,2024-01-02,WSH,@,PIT,W,,Alex Ovechkin,38-107,830,Rasmus Sandin,Anthony Mantha,Alex Nedeljkovic,1,19:18,PP,,PPG Paints Arena
+67,2023-12-30,WSH,,NSH,L,SO,Alex Ovechkin,38-104,829,Dylan Strome,Aliaksei Protas,Yaroslav Askarov,2,14:59,EV,,Capital One Arena
+68,2023-12-21,WSH,@,CBJ,W,OT,Alex Ovechkin,38-095,828,Dylan Strome,John Carlson,Elvis Merzļikins,OT,04:07,PP,,Nationwide Arena
+69,2023-11-18,WSH,,CBJ,W,,Alex Ovechkin,38-062,827,Dylan Strome,,Elvis Merzļikins,2,15:47,EV,,Capital One Arena
+70,2023-11-11,WSH,@,NYI,W,,Alex Ovechkin,38-055,826,Beck Malenstyn,Rasmus Sandin,,3,19:57,EV,EN,UBS Arena
+71,2023-11-11,WSH,@,NYI,W,,Alex Ovechkin,38-055,825,Evgeny Kuznetsov,,Semyon Varlamov,1,09:18,EV,,UBS Arena
+72,2023-10-25,WSH,@,NJD,W,,Alex Ovechkin,38-038,824,,,,3,18:25,EV,EN,Prudential Center
+73,2023-10-24,WSH,,TOR,L,,Alex Ovechkin,38-037,823,John Carlson,Tom Wilson,Joseph Woll,2,19:49,PP,,Capital One Arena
+74,2023-03-25,WSH,@,PIT,L,,Alex Ovechkin,37-189,822,John Carlson,Dylan Strome,Casey DeSmith,3,13:18,PP,,PPG Paints Arena
+75,2023-03-23,WSH,,CHI,W,,Alex Ovechkin,37-187,821,,,Anton Khudobin,3,14:56,EV,,Capital One Arena
+76,2023-03-21,WSH,,CBJ,L,OT,Alex Ovechkin,37-185,820,Tom Wilson,Dylan Strome,Daniil Tarasov,1,05:12,EV,,Capital One Arena
+77,2023-03-19,WSH,@,MIN,L,,Alex Ovechkin,37-183,819,Tom Wilson,Dylan Strome,Marc-André Fleury,3,12:33,PP,,Xcel Energy Center
+78,2023-03-19,WSH,@,MIN,L,,Alex Ovechkin,37-183,818,Rasmus Sandin,,Marc-André Fleury,2,05:34,PP,,Xcel Energy Center
+79,2023-03-15,WSH,,BUF,W,SO,Alex Ovechkin,37-179,817,Trevor van Riemsdyk,Dylan Strome,Ukko-Pekka Luukkonen,3,10:30,EV,,Capital One Arena
+80,2023-03-06,WSH,@,LAK,L,,Alex Ovechkin,37-170,816,Rasmus Sandin,Nicklas Bäckström,Pheonix Copley,3,02:31,PP,,Crypto.com Arena
+81,2023-03-04,WSH,@,SJS,W,,Alex Ovechkin,37-168,815,Vincent Iorio,Rasmus Sandin,Kaapo Kähkönen,3,16:05,EV,,SAP Center at San Jose
+82,2023-03-04,WSH,@,SJS,W,,Alex Ovechkin,37-168,814,Tom Wilson,Gabriel Carlsson,Kaapo Kähkönen,3,09:11,EV,,SAP Center at San Jose
+83,2023-02-26,WSH,@,BUF,L,,Alex Ovechkin,37-162,813,Erik Gustafsson,Evgeny Kuznetsov,Ukko-Pekka Luukkonen,2,15:49,EV,,KeyBank Center
+84,2023-01-26,WSH,,PIT,W,SO,Alex Ovechkin,37-131,812,Evgeny Kuznetsov,Dmitry Orlov,Casey DeSmith,1,06:00,PP,,Capital One Arena
+85,2023-01-24,WSH,@,COL,L,,Alex Ovechkin,37-129,811,Dylan Strome,,Alexandar Georgiev,3,09:44,EV,,Ball Arena
+86,2023-01-14,WSH,,PHI,L,,Alex Ovechkin,37-119,810,,,Carter Hart,1,17:56,EV,,Capital One Arena
+87,2023-01-05,WSH,@,CBJ,W,,Alex Ovechkin,37-110,809,Dylan Strome,Evgeny Kuznetsov,Elvis Merzļikins,3,13:05,PP,,Nationwide Arena
+88,2023-01-03,WSH,,BUF,L,OT,Alex Ovechkin,37-108,808,Conor Sheary,,Ukko-Pekka Luukkonen,3,07:10,EV,,Capital One Arena
+89,2023-01-03,WSH,,BUF,L,OT,Alex Ovechkin,37-108,807,Evgeny Kuznetsov,,Ukko-Pekka Luukkonen,2,16:46,EV,,Capital One Arena
+90,2022-12-31,WSH,,MTL,W,,Alex Ovechkin,37-105,805,Erik Gustafsson,Marcus Johansson,Jake Allen,3,01:22,PP,,Capital One Arena
+91,2022-12-31,WSH,,MTL,W,,Alex Ovechkin,37-105,806,Conor Sheary,,Jake Allen,3,16:35,EV,,Capital One Arena
+92,2022-12-31,WSH,,MTL,W,,Alex Ovechkin,37-105,804,Trevor van Riemsdyk,Lars Eller,Jake Allen,2,09:06,EV,,Capital One Arena
+93,2022-12-29,WSH,,OTT,L,OT,Alex Ovechkin,37-103,803,Erik Gustafsson,Garnet Hathaway,Cam Talbot,2,01:15,EV,,Capital One Arena
+94,2022-12-23,WSH,,WPG,W,,Alex Ovechkin,37-097,802,Evgeny Kuznetsov,,,3,19:00,EV,EN,Capital One Arena
+95,2022-12-23,WSH,,WPG,W,,Alex Ovechkin,37-097,801,Dylan Strome,Conor Sheary,David Rittich,1,18:22,EV,,Capital One Arena
+96,2022-12-13,WSH,@,CHI,W,,Alex Ovechkin,37-087,799,Conor Sheary,Sonny Milano,Petr Mrázek,1,08:14,PP,,United Center
+97,2022-12-13,WSH,@,CHI,W,,Alex Ovechkin,37-087,798,John Carlson,Conor Sheary,Petr Mrázek,1,00:24,EV,,United Center
+98,2022-12-13,WSH,@,CHI,W,,Alex Ovechkin,37-087,800,Anthony Mantha,Evgeny Kuznetsov,Petr Mrázek,3,06:34,EV,,United Center
+99,2022-12-11,WSH,@,WPG,W,,Alex Ovechkin,37-085,797,Dmitry Orlov,,,3,17:48,EV,EN,Canada Life Centre
+100,2022-12-09,WSH,,SEA,W,,Alex Ovechkin,37-083,796,Evgeny Kuznetsov,John Carlson,,3,19:56,EV,EN,Capital One Arena
+101,2022-12-07,WSH,@,PHI,W,,Alex Ovechkin,37-081,795,Evgeny Kuznetsov,Conor Sheary,,3,19:51,EV,EN,Wells Fargo Center
+102,2022-12-07,WSH,@,PHI,W,,Alex Ovechkin,37-081,794,Anthony Mantha,John Carlson,,3,18:25,EV,EN,Wells Fargo Center
+103,2022-11-29,WSH,@,VAN,W,,Alex Ovechkin,37-073,793,Dylan Strome,Anthony Mantha,Spencer Martin,1,11:52,EV,,Rogers Arena
+104,2022-11-29,WSH,@,VAN,W,,Alex Ovechkin,37-073,792,,,Spencer Martin,1,05:35,EV,,Rogers Arena
+105,2022-11-25,WSH,,CGY,W,,Alex Ovechkin,37-069,791,Conor Sheary,Sonny Milano,Jacob Markström,3,12:24,PP,,Capital One Arena
+106,2022-11-23,WSH,,PHI,W,OT,Alex Ovechkin,37-067,790,Dylan Strome,Erik Gustafsson,Felix Sandström,OT,01:04,EV,,Capital One Arena
+107,2022-11-17,WSH,@,STL,L,SO,Alex Ovechkin,37-061,789,Dylan Strome,,Thomas Greiss,2,15:12,EV,,Enterprise Center
+108,2022-11-07,WSH,,EDM,W,,Alex Ovechkin,37-051,788,Erik Gustafsson,Evgeny Kuznetsov,Stuart Skinner,2,14:36,PP,,Capital One Arena
+109,2022-11-05,WSH,,ARI,L,,Alex Ovechkin,37-049,787,Trevor van Riemsdyk,Anthony Mantha,Karel Vejmelka,2,08:55,PP,,Capital One Arena
+110,2022-11-03,WSH,@,DET,L,,Alex Ovechkin,37-047,786,Evgeny Kuznetsov,,Ville Husso,2,07:11,EV,,Little Caesars Arena
+111,2022-10-31,WSH,@,CAR,L,SO,Alex Ovechkin,37-044,785,Erik Gustafsson,Evgeny Kuznetsov,Frederik Andersen,2,08:57,PP,,PNC Arena
+112,2022-10-29,WSH,@,NSH,W,,Alex Ovechkin,37-042,784,Dmitry Orlov,,,3,17:15,EV,EN,Bridgestone Arena
+113,2022-10-24,WSH,@,NJD,W,,Alex Ovechkin,37-037,783,John Carlson,Dylan Strome,Mackenzie Blackwood,2,17:14,PP,,Prudential Center
+114,2022-10-17,WSH,,VAN,W,,Alex Ovechkin,37-030,781,Marcus Johansson,Dylan Strome,Thatcher Demko,1,00:56,PP,,Capital One Arena
+115,2022-10-17,WSH,,VAN,W,,Alex Ovechkin,37-030,782,Evgeny Kuznetsov,Nick Jensen,Thatcher Demko,3,17:02,EV,,Capital One Arena
+116,2022-04-20,WSH,@,VEG,L,OT,Alex Ovechkin,36-215,780,Dmitry Orlov,Nicklas Bäckström,Logan Thompson,3,13:36,EV,,T-Mobile Arena
+117,2022-04-20,WSH,@,VEG,L,OT,Alex Ovechkin,36-215,779,Evgeny Kuznetsov,Marcus Johansson,Logan Thompson,2,02:57,EV,,T-Mobile Arena
+118,2022-04-18,WSH,@,COL,W,,Alex Ovechkin,36-213,778,Evgeny Kuznetsov,John Carlson,Darcy Kuemper,2,13:27,PP,,Ball Arena
+119,2022-04-16,WSH,@,MTL,W,,Alex Ovechkin,36-211,777,Evgeny Kuznetsov,,Sam Montembeault,2,15:36,EV,,Bell Centre
+120,2022-04-12,WSH,,PHI,W,,Alex Ovechkin,36-207,776,Conor Sheary,Evgeny Kuznetsov,Carter Hart,1,06:01,EV,,Capital One Arena
+121,2022-04-10,WSH,,BOS,W,,Alex Ovechkin,36-205,775,Evgeny Kuznetsov,John Carlson,,3,19:58,EV,EN,Capital One Arena
+122,2022-04-09,WSH,@,PIT,W,,Alex Ovechkin,36-204,774,John Carlson,Nicklas Bäckström,Tristan Jarry,2,04:49,PP,,PPG Paints Arena
+123,2022-04-06,WSH,,TBL,W,,Alex Ovechkin,36-201,773,John Carlson,Evgeny Kuznetsov,Andrei Vasilevskiy,1,15:10,EV,,Capital One Arena
+124,2022-03-26,WSH,,NJD,W,,Alex Ovechkin,36-190,772,Evgeny Kuznetsov,Nicklas Bäckström,Nico Daws,3,11:48,PP,,Capital One Arena
+125,2022-03-25,WSH,@,BUF,W,SO,Alex Ovechkin,36-189,771,Evgeny Kuznetsov,,Dustin Tokarski,2,16:47,EV,,KeyBank Center
+126,2022-03-20,WSH,,DAL,L,,Alex Ovechkin,36-184,770,John Carlson,Evgeny Kuznetsov,Jake Oettinger,2,04:53,PP,,Capital One Arena
+127,2022-03-18,WSH,@,CAR,W,SO,Alex Ovechkin,36-182,769,Nicklas Bäckström,,Antti Raanta,3,14:56,PP,,PNC Arena
+128,2022-03-17,WSH,@,CBJ,W,,Alex Ovechkin,36-181,768,Conor Sheary,Tom Wilson,Elvis Merzļikins,2,10:44,PP,,Nationwide Arena
+129,2022-03-15,WSH,,NYI,W,SO,Alex Ovechkin,36-179,767,Evgeny Kuznetsov,,Semyon Varlamov,3,15:02,EV,,Capital One Arena
+130,2022-03-08,WSH,@,CGY,W,,Alex Ovechkin,36-172,766,Tom Wilson,Nick Jensen,,3,18:12,EV,EN,Scotiabank Saddledome
+131,2022-03-08,WSH,@,CGY,W,,Alex Ovechkin,36-172,765,Evgeny Kuznetsov,,Daniel Vladař,2,13:23,EV,,Scotiabank Saddledome
+132,2022-03-05,WSH,,SEA,W,,Alex Ovechkin,36-169,764,John Carlson,Nicklas Bäckström,Chris Driedger,3,00:47,PP,,Capital One Arena
+133,2022-03-03,WSH,,CAR,W,,Alex Ovechkin,36-167,763,John Carlson,T.J. Oshie,Frederik Andersen,2,15:05,PP,,Capital One Arena
+134,2022-02-24,WSH,@,NYR,L,,Alex Ovechkin,36-160,762,Evgeny Kuznetsov,,Igor Shesterkin,3,18:58,EV,,Madison Square Garden (IV)
+135,2022-02-15,WSH,@,NSH,W,,Alex Ovechkin,36-151,760,John Carlson,Tom Wilson,Juuse Saros,3,04:33,PP,,Bridgestone Arena
+136,2022-02-15,WSH,@,NSH,W,,Alex Ovechkin,36-151,761,,,,3,18:37,EV,EN,Bridgestone Arena
+137,2022-01-22,WSH,,OTT,W,OT,Alex Ovechkin,36-127,759,Nicklas Bäckström,,Matt Murray,3,09:43,EV,,Capital One Arena
+138,2022-01-22,WSH,,OTT,W,OT,Alex Ovechkin,36-127,758,Trevor van Riemsdyk,Evgeny Kuznetsov,Matt Murray,3,01:39,EV,,Capital One Arena
+139,2022-01-18,WSH,,WPG,W,OT,Alex Ovechkin,36-123,757,Garnet Hathaway,,Connor Hellebuyck,1,16:58,EV,,Capital One Arena
+140,2022-01-16,WSH,,VAN,L,,Alex Ovechkin,36-121,756,Justin Schultz,Evgeny Kuznetsov,Thatcher Demko,1,10:31,PP,,Capital One Arena
+141,2022-01-15,WSH,@,NYI,W,,Alex Ovechkin,36-120,755,Evgeny Kuznetsov,Nicklas Bäckström,,3,19:49,EV,EN,UBS Arena
+142,2021-12-31,WSH,@,DET,W,,Alex Ovechkin,36-105,753,Evgeny Kuznetsov,Nicklas Bäckström,Thomas Greiss,3,17:09,PP,,Little Caesars Arena
+143,2021-12-31,WSH,@,DET,W,,Alex Ovechkin,36-105,754,Garnet Hathaway,John Carlson,,3,19:19,EV,EN,Little Caesars Arena
+144,2021-12-17,WSH,@,WPG,W,,Alex Ovechkin,36-091,752,Daniel Sprong,John Carlson,,3,19:09,EV,EN,Canada Life Centre
+145,2021-12-15,WSH,@,CHI,L,OT,Alex Ovechkin,36-089,751,T.J. Oshie,Nicklas Bäckström,Marc-André Fleury,2,03:36,PP,,United Center
+146,2021-12-04,WSH,,CBJ,W,,Alex Ovechkin,36-078,750,John Carlson,,Daniil Tarasov,2,03:12,EV,,Capital One Arena
+147,2021-11-28,WSH,@,CAR,W,,Alex Ovechkin,36-072,749,Dmitry Orlov,Tom Wilson,Frederik Andersen,2,11:58,EV,,PNC Arena
+148,2021-11-26,WSH,,FLA,W,,Alex Ovechkin,36-070,747,Aliaksei Protas,Evgeny Kuznetsov,Spencer Knight,2,03:46,EV,,Capital One Arena
+149,2021-11-26,WSH,,FLA,W,,Alex Ovechkin,36-070,748,Evgeny Kuznetsov,Tom Wilson,Sergei Bobrovsky,3,04:02,EV,,Capital One Arena
+150,2021-11-26,WSH,,FLA,W,,Alex Ovechkin,36-070,746,Tom Wilson,Aliaksei Protas,Sergei Bobrovsky,2,02:50,PP,,Capital One Arena
+151,2021-11-21,WSH,@,SEA,L,,Alex Ovechkin,36-065,745,Dmitry Orlov,Tom Wilson,Philipp Grubauer,3,03:09,EV,,Climate Pledge Arena
+152,2021-11-20,WSH,@,SJS,W,,Alex Ovechkin,36-064,743,John Carlson,T.J. Oshie,Adin Hill,1,13:58,PP,,SAP Center at San Jose
+153,2021-11-20,WSH,@,SJS,W,,Alex Ovechkin,36-064,744,Nic Dowd,,,3,18:56,EV,EN,SAP Center at San Jose
+154,2021-11-12,WSH,@,CBJ,W,,Alex Ovechkin,36-056,742,Evgeny Kuznetsov,Tom Wilson,Joonas Korpisalo,1,10:19,EV,,Nationwide Arena
+155,2021-11-08,WSH,,BUF,W,,Alex Ovechkin,36-052,741,Dmitry Orlov,Evgeny Kuznetsov,Dustin Tokarski,2,08:55,EV,,Capital One Arena
+156,2021-11-04,WSH,@,FLA,L,OT,Alex Ovechkin,36-048,740,Lars Eller,,Spencer Knight,2,18:11,EV,,FLA Live Arena
+157,2021-10-29,WSH,,ARI,W,,Alex Ovechkin,36-042,739,Evgeny Kuznetsov,John Carlson,,3,19:39,EV,EN,Capital One Arena
+158,2021-10-27,WSH,,DET,L,OT,Alex Ovechkin,36-040,738,Lars Eller,Anthony Mantha,Thomas Greiss,1,19:05,PP,,Capital One Arena
+159,2021-10-25,WSH,@,OTT,W,,Alex Ovechkin,36-038,737,Tom Wilson,,Filip Gustavsson,3,10:46,EV,,Canadian Tire Centre
+160,2021-10-25,WSH,@,OTT,W,,Alex Ovechkin,36-038,736,,,Filip Gustavsson,2,16:27,EV,,Canadian Tire Centre
+161,2021-10-23,WSH,,CGY,L,OT,Alex Ovechkin,36-036,735,,,Daniel Vladař,2,18:03,EV,,Capital One Arena
+162,2021-10-19,WSH,,COL,W,,Alex Ovechkin,36-032,734,Tom Wilson,Evgeny Kuznetsov,,3,17:39,EV,EN,Capital One Arena
+163,2021-10-16,WSH,,TBL,L,OT,Alex Ovechkin,36-029,733,Trevor van Riemsdyk,Tom Wilson,Andrei Vasilevskiy,2,18:51,EV,,Capital One Arena
+164,2021-10-13,WSH,,NYR,W,,Alex Ovechkin,36-026,732,Evgeny Kuznetsov,Trevor van Riemsdyk,Alexandar Georgiev,3,12:01,SH,,Capital One Arena
+165,2021-10-13,WSH,,NYR,W,,Alex Ovechkin,36-026,731,Anthony Mantha,John Carlson,Alexandar Georgiev,3,02:37,PP,,Capital One Arena
+166,2021-04-17,WSH,@,PHI,W,,Alex Ovechkin,35-212,730,John Carlson,Evgeny Kuznetsov,Alex Lyon,2,06:15,PP,,Wells Fargo Center
+167,2021-04-17,WSH,@,PHI,W,,Alex Ovechkin,35-212,729,John Carlson,Evgeny Kuznetsov,Alex Lyon,1,03:38,PP,,Wells Fargo Center
+168,2021-04-13,WSH,,PHI,W,,Alex Ovechkin,35-208,728,Tom Wilson,Conor Sheary,Brian Elliott,3,05:10,PP,,Capital One Arena
+169,2021-04-09,WSH,@,BUF,W,,Alex Ovechkin,35-204,727,Brenden Dillon,John Carlson,Dustin Tokarski,1,11:39,EV,,KeyBank Center
+170,2021-04-08,WSH,,BOS,L,,Alex Ovechkin,35-203,726,John Carlson,T.J. Oshie,Jeremy Swayman,2,10:08,PP,,Capital One Arena
+171,2021-04-04,WSH,@,NJD,W,,Alex Ovechkin,35-199,725,Nicklas Bäckström,Evgeny Kuznetsov,Mackenzie Blackwood,2,08:09,PP,,Prudential Center
+172,2021-03-28,WSH,,NYR,W,,Alex Ovechkin,35-192,724,T.J. Oshie,Dmitry Orlov,Keith Kinkaid,2,12:29,EV,,Capital One Arena
+173,2021-03-26,WSH,,NJD,W,,Alex Ovechkin,35-190,723,Evgeny Kuznetsov,T.J. Oshie,Scott Wedgewood,3,16:28,EV,,Capital One Arena
+174,2021-03-26,WSH,,NJD,W,,Alex Ovechkin,35-190,722,Evgeny Kuznetsov,,Scott Wedgewood,1,05:58,EV,,Capital One Arena
+175,2021-03-25,WSH,,NJD,W,,Alex Ovechkin,35-189,721,Daniel Sprong,John Carlson,Mackenzie Blackwood,2,07:15,EV,,Capital One Arena
+176,2021-03-19,WSH,,NYR,W,,Alex Ovechkin,35-183,720,John Carlson,Zdeno Chára,Alexandar Georgiev,3,16:27,EV,,Capital One Arena
+177,2021-03-19,WSH,,NYR,W,,Alex Ovechkin,35-183,719,Evgeny Kuznetsov,Justin Schultz,Alexandar Georgiev,3,13:18,EV,,Capital One Arena
+178,2021-03-16,WSH,,NYI,W,,Alex Ovechkin,35-180,718,Justin Schultz,Nicklas Bäckström,Semyon Varlamov,2,15:24,PP,,Capital One Arena
+179,2021-03-15,WSH,@,BUF,W,,Alex Ovechkin,35-179,717,Conor Sheary,,Carter Hutton,3,16:21,EV,,KeyBank Center
+180,2021-03-13,WSH,@,PHI,W,,Alex Ovechkin,35-177,716,Nicklas Bäckström,John Carlson,Carter Hart,2,13:10,PP,,Wells Fargo Center
+181,2021-03-11,WSH,@,PHI,W,,Alex Ovechkin,35-175,715,,,Brian Elliott,1,08:37,EV,,Wells Fargo Center
+182,2021-03-07,WSH,@,PHI,W,,Alex Ovechkin,35-171,714,T.J. Oshie,Zdeno Chára,Carter Hart,2,15:11,EV,,Wells Fargo Center
+183,2021-02-28,WSH,@,NJD,W,,Alex Ovechkin,35-164,713,Lars Eller,Nick Jensen,Mackenzie Blackwood,2,13:37,EV,,Prudential Center
+184,2021-02-21,WSH,,NJD,W,,Alex Ovechkin,35-157,712,T.J. Oshie,Nicklas Bäckström,Aaron Dell,3,16:56,PP,,Capital One Arena
+185,2021-02-07,WSH,,PHI,L,,Alex Ovechkin,35-143,710,Tom Wilson,Lars Eller,Carter Hart,1,11:11,PP,,Capital One Arena
+186,2021-02-07,WSH,,PHI,L,,Alex Ovechkin,35-143,711,Nicklas Bäckström,Tom Wilson,Carter Hart,2,04:08,EV,,Capital One Arena
+187,2021-02-04,WSH,@,NYR,L,,Alex Ovechkin,35-140,709,Nicklas Bäckström,,Igor Shesterkin,3,11:01,EV,,Madison Square Garden (IV)
+188,2021-01-30,WSH,,BOS,W,OT,Alex Ovechkin,35-135,708,Nicklas Bäckström,John Carlson,Tuukka Rask,OT,00:28,EV,,Capital One Arena
+189,2021-01-17,WSH,@,PIT,L,SO,Alex Ovechkin,35-122,707,Evgeny Kuznetsov,Tom Wilson,Casey DeSmith,1,14:24,EV,,PPG Paints Arena
+190,2020-03-09,WSH,@,BUF,L,SO,Alex Ovechkin,34-174,706,Evgeny Kuznetsov,,Linus Ullmark,3,03:33,EV,,KeyBank Center
+191,2020-03-05,WSH,@,NYR,L,OT,Alex Ovechkin,34-170,705,Ilya Kovalchuk,John Carlson,Alexandar Georgiev,3,19:17,EV,,Madison Square Garden (IV)
+192,2020-03-05,WSH,@,NYR,L,OT,Alex Ovechkin,34-170,704,John Carlson,Nicklas Bäckström,Alexandar Georgiev,3,09:22,EV,,Madison Square Garden (IV)
+193,2020-03-01,WSH,@,MIN,W,,Alex Ovechkin,34-166,702,John Carlson,Nicklas Bäckström,Alex Stalock,1,07:21,PP,,Xcel Energy Center
+194,2020-03-01,WSH,@,MIN,W,,Alex Ovechkin,34-166,703,Evgeny Kuznetsov,Ilya Kovalchuk,Alex Stalock,1,10:59,EV,,Xcel Energy Center
+195,2020-02-25,WSH,,WPG,W,SO,Alex Ovechkin,34-161,701,Evgeny Kuznetsov,Dmitry Orlov,Laurent Brossoit,1,01:55,EV,,Capital One Arena
+196,2020-02-22,WSH,@,NJD,L,,Alex Ovechkin,34-158,700,Evgeny Kuznetsov,Nick Jensen,Mackenzie Blackwood,3,04:50,EV,,Prudential Center
+197,2020-02-20,WSH,,MTL,L,OT,Alex Ovechkin,34-156,699,Nicklas Bäckström,,Carey Price,1,07:29,EV,,Capital One Arena
+198,2020-02-04,WSH,,LAK,W,,Alex Ovechkin,34-140,696,T.J. Oshie,,Jonathan Quick,3,13:50,EV,,Capital One Arena
+199,2020-02-04,WSH,,LAK,W,,Alex Ovechkin,34-140,697,John Carlson,,Jonathan Quick,3,15:00,EV,,Capital One Arena
+200,2020-02-04,WSH,,LAK,W,,Alex Ovechkin,34-140,698,John Carlson,,,3,18:14,EV,EN,Capital One Arena
+201,2020-01-31,WSH,@,OTT,W,,Alex Ovechkin,34-136,694,Nicklas Bäckström,Tom Wilson,Marcus Högberg,2,10:27,EV,,Canadian Tire Centre
+202,2020-01-31,WSH,@,OTT,W,,Alex Ovechkin,34-136,695,John Carlson,,,3,19:45,PP,EN,Canadian Tire Centre
+203,2020-01-29,WSH,,NSH,L,,Alex Ovechkin,34-134,693,,,Juuse Saros,1,16:26,EV,,Capital One Arena
+204,2020-01-18,WSH,@,NYI,W,,Alex Ovechkin,34-123,690,Nicklas Bäckström,,Semyon Varlamov,1,10:22,EV,,Nassau Veterans Memorial Coliseum
+205,2020-01-18,WSH,@,NYI,W,,Alex Ovechkin,34-123,691,John Carlson,,Semyon Varlamov,3,05:18,EV,,Nassau Veterans Memorial Coliseum
+206,2020-01-18,WSH,@,NYI,W,,Alex Ovechkin,34-123,692,T.J. Oshie,,,3,19:04,EV,EN,Nassau Veterans Memorial Coliseum
+207,2020-01-16,WSH,,NJD,W,,Alex Ovechkin,34-121,688,Nicklas Bäckström,,Louis Domingue,1,19:08,EV,,Capital One Arena
+208,2020-01-16,WSH,,NJD,W,,Alex Ovechkin,34-121,689,Tom Wilson,John Carlson,Cory Schneider,3,15:42,EV,,Capital One Arena
+209,2020-01-16,WSH,,NJD,W,,Alex Ovechkin,34-121,687,John Carlson,Nicklas Bäckström,Louis Domingue,1,15:17,PP,,Capital One Arena
+210,2020-01-13,WSH,,CAR,W,,Alex Ovechkin,34-118,685,Tom Wilson,,Petr Mrázek,1,11:58,EV,,Capital One Arena
+211,2020-01-13,WSH,,CAR,W,,Alex Ovechkin,34-118,686,Jakub Vrána,John Carlson,Petr Mrázek,1,17:18,PP,,Capital One Arena
+212,2020-01-07,WSH,,OTT,W,,Alex Ovechkin,34-112,683,Dmitry Orlov,Tom Wilson,Craig Anderson,2,17:15,EV,,Capital One Arena
+213,2020-01-07,WSH,,OTT,W,,Alex Ovechkin,34-112,684,John Carlson,Tom Wilson,Marcus Högberg,3,16:19,EV,,Capital One Arena
+214,2019-12-28,WSH,@,CAR,L,,Alex Ovechkin,34-102,682,Dmitry Orlov,Lars Eller,Petr Mrázek,2,09:56,PP,,PNC Arena
+215,2019-12-23,WSH,@,BOS,L,,Alex Ovechkin,34-097,681,Tom Wilson,John Carlson,Tuukka Rask,2,14:35,EV,,TD Garden
+216,2019-12-20,WSH,@,NJD,W,,Alex Ovechkin,34-094,680,Nicklas Bäckström,Tom Wilson,Mackenzie Blackwood,1,18:25,EV,,Prudential Center
+217,2019-12-09,WSH,,CBJ,L,,Alex Ovechkin,34-083,679,Dmitry Orlov,Nicklas Bäckström,Joonas Korpisalo,3,00:40,EV,,Capital One Arena
+218,2019-11-30,WSH,@,DET,W,,Alex Ovechkin,34-074,676,John Carlson,Evgeny Kuznetsov,Jonathan Bernier,2,09:21,EV,,Little Caesars Arena
+219,2019-11-30,WSH,@,DET,W,,Alex Ovechkin,34-074,677,T.J. Oshie,Radko Gudas,,3,18:25,EV,EN,Little Caesars Arena
+220,2019-11-30,WSH,@,DET,W,,Alex Ovechkin,34-074,678,,,,3,19:05,EV,EN,Little Caesars Arena
+221,2019-11-29,WSH,,TBL,W,OT,Alex Ovechkin,34-073,675,Dmitry Orlov,Travis Boyd,Andrei Vasilevskiy,3,11:36,PP,,Capital One Arena
+222,2019-11-27,WSH,,FLA,W,,Alex Ovechkin,34-071,674,Evgeny Kuznetsov,,Sergei Bobrovsky,1,17:57,EV,,Capital One Arena
+223,2019-11-18,WSH,,ANA,W,,Alex Ovechkin,34-062,673,Evgeny Kuznetsov,John Carlson,John Gibson,2,06:39,PP,,Capital One Arena
+224,2019-11-15,WSH,,MTL,L,,Alex Ovechkin,34-059,672,John Carlson,Nicklas Bäckström,Carey Price,3,05:34,PP,,Capital One Arena
+225,2019-11-07,WSH,@,FLA,W,OT,Alex Ovechkin,34-051,671,Dmitry Orlov,Nicklas Bäckström,Sergei Bobrovsky,2,12:14,EV,,BB&T Center
+226,2019-11-07,WSH,@,FLA,W,OT,Alex Ovechkin,34-051,670,Evgeny Kuznetsov,John Carlson,Sergei Bobrovsky,2,06:13,PP,,BB&T Center
+227,2019-10-29,WSH,@,TOR,W,OT,Alex Ovechkin,34-042,668,T.J. Oshie,Nicklas Bäckström,Frederik Andersen,3,04:10,EV,,Scotiabank Arena
+228,2019-10-29,WSH,@,TOR,W,OT,Alex Ovechkin,34-042,669,Dmitry Orlov,Jakub Vrána,Frederik Andersen,OT,04:00,PP,,Scotiabank Arena
+229,2019-10-24,WSH,@,EDM,L,OT,Alex Ovechkin,34-037,666,Jonas Siegenthaler,John Carlson,Mikko Koskinen,2,06:27,EV,,Rogers Place
+230,2019-10-24,WSH,@,EDM,L,OT,Alex Ovechkin,34-037,667,Tom Wilson,Jakub Vrána,Mikko Koskinen,2,13:40,PP,,Rogers Place
+231,2019-10-22,WSH,@,CGY,W,,Alex Ovechkin,34-035,665,Nicklas Bäckström,Radko Gudas,Cam Talbot,2,16:35,EV,,Scotiabank Saddledome
+232,2019-10-20,WSH,@,CHI,W,,Alex Ovechkin,34-033,664,John Carlson,Michal Kempný,Corey Crawford,3,03:52,EV,,United Center
+233,2019-10-14,WSH,,COL,L,,Alex Ovechkin,34-027,663,Evgeny Kuznetsov,John Carlson,Philipp Grubauer,3,17:39,EV,,Capital One Arena
+234,2019-10-12,WSH,@,DAL,W,,Alex Ovechkin,34-025,662,Tom Wilson,,,3,19:03,EV,EN,American Airlines Center
+235,2019-10-10,WSH,@,NSH,L,,Alex Ovechkin,34-023,660,John Carlson,Evgeny Kuznetsov,Pekka Rinne,2,04:46,PP,,Bridgestone Arena
+236,2019-10-10,WSH,@,NSH,L,,Alex Ovechkin,34-023,661,John Carlson,Nicklas Bäckström,Pekka Rinne,2,17:36,PP,,Bridgestone Arena
+237,2019-10-02,WSH,@,STL,W,OT,Alex Ovechkin,34-015,659,John Carlson,Lars Eller,Jordan Binnington,1,15:37,EV,,Enterprise Center
+238,2019-03-30,WSH,@,TBL,W,,Alex Ovechkin,33-194,657,T.J. Oshie,Nicklas Bäckström,Andrei Vasilevskiy,3,14:35,EV,,Amalie Arena
+239,2019-03-30,WSH,@,TBL,W,,Alex Ovechkin,33-194,658,John Carlson,Evgeny Kuznetsov,Andrei Vasilevskiy,3,16:15,PP,,Amalie Arena
+240,2019-03-26,WSH,,CAR,W,,Alex Ovechkin,33-190,656,Tom Wilson,Evgeny Kuznetsov,Petr Mrázek,3,04:31,EV,,Capital One Arena
+241,2019-03-16,WSH,@,TBL,L,,Alex Ovechkin,33-180,655,Dmitry Orlov,Brett Connolly,Andrei Vasilevskiy,3,12:56,EV,,Amalie Arena
+242,2019-03-16,WSH,@,TBL,L,,Alex Ovechkin,33-180,654,T.J. Oshie,John Carlson,Andrei Vasilevskiy,2,07:33,PP,,Amalie Arena
+243,2019-03-06,WSH,@,PHI,W,,Alex Ovechkin,33-170,653,Nicklas Bäckström,John Carlson,Brian Elliott,2,02:32,PP,,Wells Fargo Center
+244,2019-03-01,WSH,@,NYI,W,,Alex Ovechkin,33-165,652,T.J. Oshie,Evgeny Kuznetsov,Thomas Greiss,3,04:34,PP,,Nassau Veterans Memorial Coliseum
+245,2019-02-23,WSH,@,BUF,L,,Alex Ovechkin,33-159,651,Evgeny Kuznetsov,,Carter Hutton,2,02:28,EV,,KeyBank Center
+246,2019-02-21,WSH,@,TOR,W,,Alex Ovechkin,33-157,650,John Carlson,T.J. Oshie,Frederik Andersen,2,03:54,PP,,Scotiabank Arena
+247,2019-02-18,WSH,@,LAK,W,,Alex Ovechkin,33-154,648,John Carlson,Jakub Vrána,Jack Campbell,1,11:48,PP,,STAPLES Center
+248,2019-02-18,WSH,@,LAK,W,,Alex Ovechkin,33-154,649,John Carlson,Nicklas Bäckström,Jack Campbell,2,05:27,PP,,STAPLES Center
+249,2019-02-17,WSH,@,ANA,L,,Alex Ovechkin,33-153,647,John Carlson,Jakub Vrána,Ryan Miller,1,04:58,EV,,Honda Center
+250,2019-02-14,WSH,@,SJS,W,,Alex Ovechkin,33-150,646,Evgeny Kuznetsov,Tom Wilson,Martin Jones,2,04:14,EV,,SAP Center at San Jose
+251,2019-02-11,WSH,,LAK,W,,Alex Ovechkin,33-147,645,Evgeny Kuznetsov,T.J. Oshie,Jonathan Quick,1,03:07,PP,,Capital One Arena
+252,2019-01-23,WSH,@,TOR,L,,Alex Ovechkin,33-128,644,T.J. Oshie,Michal Kempný,Frederik Andersen,2,03:51,EV,,Scotiabank Arena
+253,2019-01-22,WSH,,SJS,L,OT,Alex Ovechkin,33-127,642,Nicklas Bäckström,T.J. Oshie,Martin Jones,2,05:41,EV,,Capital One Arena
+254,2019-01-22,WSH,,SJS,L,OT,Alex Ovechkin,33-127,643,Jakub Vrána,Evgeny Kuznetsov,Martin Jones,3,05:52,EV,,Capital One Arena
+255,2019-01-22,WSH,,SJS,L,OT,Alex Ovechkin,33-127,641,Nicklas Bäckström,T.J. Oshie,Martin Jones,1,10:41,PP,,Capital One Arena
+256,2019-01-14,WSH,,STL,L,,Alex Ovechkin,33-119,640,Dmitry Orlov,Travis Boyd,Jake Allen,1,07:50,PP,,Capital One Arena
+257,2019-01-10,WSH,@,BOS,W,,Alex Ovechkin,33-115,638,Tom Wilson,,Jaroslav Halák,2,14:50,EV,,TD Garden
+258,2019-01-10,WSH,@,BOS,W,,Alex Ovechkin,33-115,639,,,,3,18:25,EV,EN,TD Garden
+259,2019-01-03,WSH,@,STL,L,,Alex Ovechkin,33-108,637,Michal Kempný,John Carlson,Jake Allen,1,15:34,EV,,Enterprise Center
+260,2018-12-15,WSH,,BUF,W,SO,Alex Ovechkin,33-089,636,Nicklas Bäckström,Dmitry Orlov,Carter Hutton,2,13:46,EV,,Capital One Arena
+261,2018-12-14,WSH,@,CAR,W,SO,Alex Ovechkin,33-088,633,Jonas Siegenthaler,Nic Dowd,Scott Darling,1,03:56,EV,,PNC Arena
+262,2018-12-14,WSH,@,CAR,W,SO,Alex Ovechkin,33-088,634,Nic Dowd,John Carlson,Scott Darling,2,17:25,EV,,PNC Arena
+263,2018-12-14,WSH,@,CAR,W,SO,Alex Ovechkin,33-088,635,John Carlson,Nicklas Bäckström,Scott Darling,3,09:49,PP,,PNC Arena
+264,2018-12-11,WSH,,DET,W,,Alex Ovechkin,33-085,630,Nicklas Bäckström,Michal Kempný,Jonathan Bernier,1,12:59,EV,,Capital One Arena
+265,2018-12-11,WSH,,DET,W,,Alex Ovechkin,33-085,631,John Carlson,Nicklas Bäckström,Jonathan Bernier,2,09:05,EV,,Capital One Arena
+266,2018-12-11,WSH,,DET,W,,Alex Ovechkin,33-085,632,Christian Djoos,Nicklas Bäckström,Jimmy Howard,3,09:33,EV,,Capital One Arena
+267,2018-12-08,WSH,@,CBJ,W,,Alex Ovechkin,33-082,629,Michal Kempný,John Carlson,Sergei Bobrovsky,1,19:41,EV,,Nationwide Arena
+268,2018-12-06,WSH,@,ARI,W,,Alex Ovechkin,33-080,628,Nicklas Bäckström,,,3,19:57,EV,EN,Gila River Arena
+269,2018-12-04,WSH,@,VEG,L,,Alex Ovechkin,33-078,627,Brett Connolly,Madison Bowey,Marc-André Fleury,2,11:42,EV,,T-Mobile Arena
+270,2018-11-30,WSH,,NJD,W,,Alex Ovechkin,33-074,626,,,,3,18:30,EV,EN,Capital One Arena
+271,2018-11-26,WSH,@,NYI,W,,Alex Ovechkin,33-070,625,Tom Wilson,Nicklas Bäckström,,3,19:38,EV,EN,Barclays Center
+272,2018-11-24,WSH,@,NYR,W,,Alex Ovechkin,33-068,624,John Carlson,Dmitry Orlov,Alexandar Georgiev,2,19:30,EV,,Madison Square Garden (IV)
+273,2018-11-23,WSH,,DET,W,,Alex Ovechkin,33-067,623,Nic Dowd,Tom Wilson,Jonathan Bernier,3,08:34,EV,,Capital One Arena
+274,2018-11-19,WSH,@,MTL,W,OT,Alex Ovechkin,33-063,621,Tom Wilson,Dmitry Orlov,Carey Price,1,14:40,EV,,Bell Centre
+275,2018-11-19,WSH,@,MTL,W,OT,Alex Ovechkin,33-063,622,John Carlson,Tom Wilson,Carey Price,3,01:02,PP,,Bell Centre
+276,2018-11-16,WSH,@,COL,W,OT,Alex Ovechkin,33-060,620,Nicklas Bäckström,Tom Wilson,Philipp Grubauer,2,18:29,EV,,Pepsi Center
+277,2018-11-07,WSH,,PIT,W,,Alex Ovechkin,33-051,619,John Carlson,Nicklas Bäckström,Casey DeSmith,2,07:09,PP,,Capital One Arena
+278,2018-11-05,WSH,,EDM,W,,Alex Ovechkin,33-049,618,John Carlson,Evgeny Kuznetsov,Cam Talbot,2,13:09,PP,,Capital One Arena
+279,2018-11-01,WSH,@,MTL,L,,Alex Ovechkin,33-045,616,Evgeny Kuznetsov,Jakub Vrána,Carey Price,2,06:49,EV,,Bell Centre
+280,2018-11-01,WSH,@,MTL,L,,Alex Ovechkin,33-045,617,Dmitry Orlov,Matt Niskanen,Carey Price,2,12:53,EV,,Bell Centre
+281,2018-10-22,WSH,@,VAN,W,,Alex Ovechkin,33-035,614,T.J. Oshie,Nicklas Bäckström,Anders Nilsson,2,19:34,EV,,Rogers Arena
+282,2018-10-22,WSH,@,VAN,W,,Alex Ovechkin,33-035,615,John Carlson,Nicklas Bäckström,Anders Nilsson,3,05:35,PP,,Rogers Arena
+283,2018-10-17,WSH,,NYR,W,OT,Alex Ovechkin,33-030,612,John Carlson,Brett Connolly,Henrik Lundqvist,2,03:32,PP,,Capital One Arena
+284,2018-10-17,WSH,,NYR,W,OT,Alex Ovechkin,33-030,613,John Carlson,Nicklas Bäckström,Henrik Lundqvist,2,17:01,PP,,Capital One Arena
+285,2018-10-10,WSH,,VEG,W,,Alex Ovechkin,33-023,610,Evgeny Kuznetsov,Brett Connolly,Marc-André Fleury,2,10:18,EV,,Capital One Arena
+286,2018-10-10,WSH,,VEG,W,,Alex Ovechkin,33-023,611,Evgeny Kuznetsov,Brett Connolly,Marc-André Fleury,3,10:33,EV,,Capital One Arena
+287,2018-10-04,WSH,@,PIT,L,OT,Alex Ovechkin,33-017,609,Christian Djoos,Evgeny Kuznetsov,Matt Murray,1,08:00,EV,,PPG Paints Arena
+288,2018-10-03,WSH,,BOS,W,,Alex Ovechkin,33-016,608,Nicklas Bäckström,T.J. Oshie,Tuukka Rask,2,04:17,PP,,Capital One Arena
+289,2018-04-07,WSH,,NJD,W,,Alex Ovechkin,32-202,606,Evgeny Kuznetsov,Tom Wilson,Cory Schneider,1,02:21,EV,,Capital One Arena
+290,2018-04-07,WSH,,NJD,W,,Alex Ovechkin,32-202,607,,,Cory Schneider,3,05:11,EV,,Capital One Arena
+291,2018-04-05,WSH,,NSH,L,,Alex Ovechkin,32-200,605,Evgeny Kuznetsov,John Carlson,Juuse Saros,2,04:29,PP,,Capital One Arena
+292,2018-04-02,WSH,@,STL,W,,Alex Ovechkin,32-197,604,Evgeny Kuznetsov,Nicklas Bäckström,,3,18:29,PP,EN,Scottrade Center
+293,2018-03-26,WSH,@,NYR,W,,Alex Ovechkin,32-190,603,John Carlson,Nicklas Bäckström,Alexandar Georgiev,1,08:54,PP,,Madison Square Garden (IV)
+294,2018-03-20,WSH,,DAL,W,,Alex Ovechkin,32-184,602,John Carlson,T.J. Oshie,Kari Lehtonen,2,13:41,PP,,Capital One Arena
+295,2018-03-18,WSH,@,PHI,L,,Alex Ovechkin,32-182,601,Travis Boyd,John Carlson,Petr Mrázek,2,15:08,EV,,Wells Fargo Center
+296,2018-03-12,WSH,,WPG,W,OT,Alex Ovechkin,32-176,600,Tom Wilson,Evgeny Kuznetsov,Connor Hellebuyck,2,03:53,EV,,Capital One Arena
+297,2018-03-12,WSH,,WPG,W,OT,Alex Ovechkin,32-176,599,John Carlson,Nicklas Bäckström,Connor Hellebuyck,1,04:35,PP,,Capital One Arena
+298,2018-03-03,WSH,,TOR,W,,Alex Ovechkin,32-167,598,Tom Wilson,Nicklas Bäckström,Frederik Andersen,1,06:19,EV,,Navy-Marine Corps Memorial Stadium
+299,2018-02-26,WSH,@,CBJ,L,,Alex Ovechkin,32-162,597,John Carlson,T.J. Oshie,Sergei Bobrovsky,1,06:57,PP,,Nationwide Arena
+300,2018-02-24,WSH,,BUF,W,,Alex Ovechkin,32-160,596,John Carlson,Evgeny Kuznetsov,Robin Lehner,3,18:36,EV,,Capital One Arena
+301,2018-02-24,WSH,,BUF,W,,Alex Ovechkin,32-160,595,John Carlson,Evgeny Kuznetsov,Robin Lehner,3,10:13,PP,,Capital One Arena
+302,2018-02-20,WSH,,TBL,L,,Alex Ovechkin,32-156,594,Matt Niskanen,,Andrei Vasilevskiy,3,11:02,EV,,Capital One Arena
+303,2018-02-19,WSH,@,BUF,W,,Alex Ovechkin,32-155,593,Christian Djoos,John Carlson,Chad Johnson,2,01:18,EV,,KeyBank Center
+304,2018-02-15,WSH,@,MIN,W,,Alex Ovechkin,32-151,592,André Burakovsky,,Devan Dubnyk,2,05:51,EV,,Xcel Energy Center
+305,2018-02-11,WSH,,DET,L,OT,Alex Ovechkin,32-147,591,John Carlson,Evgeny Kuznetsov,Jimmy Howard,1,04:20,PP,,Capital One Arena
+306,2018-02-02,WSH,@,PIT,L,,Alex Ovechkin,32-138,589,Christian Djoos,,Matt Murray,1,18:10,EV,,PPG Paints Arena
+307,2018-02-02,WSH,@,PIT,L,,Alex Ovechkin,32-138,590,Evgeny Kuznetsov,Dmitry Orlov,Matt Murray,3,01:50,EV,,PPG Paints Arena
+308,2018-01-25,WSH,@,FLA,W,,Alex Ovechkin,32-130,588,Brooks Orpik,Madison Bowey,Harri Säteri,2,07:51,EV,,BB&T Center
+309,2018-01-21,WSH,,PHI,L,OT,Alex Ovechkin,32-126,587,John Carlson,T.J. Oshie,Brian Elliott,2,19:44,PP,,Capital One Arena
+310,2018-01-12,WSH,@,CAR,W,,Alex Ovechkin,32-117,586,John Carlson,Evgeny Kuznetsov,Cam Ward,2,00:28,EV,,PNC Arena
+311,2018-01-07,WSH,,STL,W,OT,Alex Ovechkin,32-112,585,John Carlson,Nicklas Bäckström,Carter Hutton,3,08:00,PP,,Capital One Arena
+312,2018-01-02,WSH,@,CAR,W,OT,Alex Ovechkin,32-107,583,Nicklas Bäckström,,Cam Ward,3,12:45,EV,,PNC Arena
+313,2018-01-02,WSH,@,CAR,W,OT,Alex Ovechkin,32-107,584,Nicklas Bäckström,,Cam Ward,OT,01:57,EV,,PNC Arena
+314,2017-12-28,WSH,,BOS,W,SO,Alex Ovechkin,32-102,582,John Carlson,Evgeny Kuznetsov,Anton Khudobin,2,14:07,PP,,Capital One Arena
+315,2017-12-16,WSH,,ANA,W,OT,Alex Ovechkin,32-090,581,John Carlson,,John Gibson,OT,01:58,EV,,Capital One Arena
+316,2017-12-14,WSH,@,BOS,W,,Alex Ovechkin,32-088,580,Matt Niskanen,,,3,18:31,EV,EN,TD Garden
+317,2017-12-06,WSH,,CHI,W,,Alex Ovechkin,32-080,579,Tom Wilson,Dmitry Orlov,Anton Forsberg,1,15:22,EV,,Capital One Arena
+318,2017-12-04,WSH,,SJS,W,,Alex Ovechkin,32-078,578,,,Martin Jones,2,07:11,EV,,Capital One Arena
+319,2017-12-02,WSH,,CBJ,W,,Alex Ovechkin,32-076,577,John Carlson,Nicklas Bäckström,Sergei Bobrovsky,2,19:22,PP,,Capital One Arena
+320,2017-11-25,WSH,@,TOR,W,,Alex Ovechkin,32-069,574,Nicklas Bäckström,,Curtis McElhinney,1,12:43,EV,,Air Canada Centre
+321,2017-11-25,WSH,@,TOR,W,,Alex Ovechkin,32-069,576,T.J. Oshie,Nicklas Bäckström,,3,19:51,EV,EN,Air Canada Centre
+322,2017-11-25,WSH,@,TOR,W,,Alex Ovechkin,32-069,575,T.J. Oshie,,Curtis McElhinney,1,19:13,PP,,Air Canada Centre
+323,2017-11-24,WSH,,TBL,W,,Alex Ovechkin,32-068,573,Tom Wilson,Nicklas Bäckström,Andrei Vasilevskiy,1,18:36,EV,,Capital One Arena
+324,2017-11-22,WSH,,OTT,W,,Alex Ovechkin,32-066,572,Alex Chiasson,Nicklas Bäckström,Craig Anderson,1,19:55,EV,,Capital One Arena
+325,2017-11-07,WSH,@,BUF,L,,Alex Ovechkin,32-051,571,Devante Smith-Pelly,,Robin Lehner,2,17:44,EV,,KeyBank Center
+326,2017-11-06,WSH,,ARI,W,OT,Alex Ovechkin,32-050,570,John Carlson,Evgeny Kuznetsov,Scott Wedgewood,2,14:23,PP,,Capital One Arena
+327,2017-11-04,WSH,@,BOS,W,,Alex Ovechkin,32-048,569,Evgeny Kuznetsov,Dmitry Orlov,Tuukka Rask,1,13:06,EV,,TD Garden
+328,2017-10-20,WSH,@,DET,W,OT,Alex Ovechkin,32-033,568,Nicklas Bäckström,John Carlson,Petr Mrázek,OT,01:56,PP,,Little Caesars Arena
+329,2017-10-13,WSH,@,NJD,W,,Alex Ovechkin,32-026,567,Nicklas Bäckström,John Carlson,Cory Schneider,2,08:01,PP,,Prudential Center
+330,2017-10-11,WSH,,PIT,L,,Alex Ovechkin,32-024,566,Christian Djoos,Nicklas Bäckström,Matt Murray,3,12:51,EV,,Capital One Arena
+331,2017-10-07,WSH,,MTL,W,,Alex Ovechkin,32-020,562,Jakub Vrána,Evgeny Kuznetsov,Carey Price,1,00:20,EV,,Capital One Arena
+332,2017-10-07,WSH,,MTL,W,,Alex Ovechkin,32-020,564,Evgeny Kuznetsov,,Carey Price,1,18:10,EV,,Capital One Arena
+333,2017-10-07,WSH,,MTL,W,,Alex Ovechkin,32-020,565,Evgeny Kuznetsov,John Carlson,Al Montoya,2,16:46,EV,,Capital One Arena
+334,2017-10-07,WSH,,MTL,W,,Alex Ovechkin,32-020,563,Evgeny Kuznetsov,Nicklas Bäckström,Carey Price,1,02:51,PP,,Capital One Arena
+335,2017-10-05,WSH,@,OTT,W,SO,Alex Ovechkin,32-018,559,Evgeny Kuznetsov,,Craig Anderson,3,04:15,EV,,Canadian Tire Centre
+336,2017-10-05,WSH,@,OTT,W,SO,Alex Ovechkin,32-018,560,Evgeny Kuznetsov,Jakub Vrána,Craig Anderson,3,05:38,EV,,Canadian Tire Centre
+337,2017-10-05,WSH,@,OTT,W,SO,Alex Ovechkin,32-018,561,Evgeny Kuznetsov,Jakub Vrána,Craig Anderson,3,10:48,EV,,Canadian Tire Centre
+338,2017-03-28,WSH,@,MIN,W,OT,Alex Ovechkin,31-192,556,Marcus Johansson,Nicklas Bäckström,Devan Dubnyk,2,07:31,PP,,Xcel Energy Center
+339,2017-03-28,WSH,@,MIN,W,OT,Alex Ovechkin,31-192,557,Kevin Shattenkirk,Marcus Johansson,Devan Dubnyk,2,12:28,PP,,Xcel Energy Center
+340,2017-03-28,WSH,@,MIN,W,OT,Alex Ovechkin,31-192,558,Nicklas Bäckström,Marcus Johansson,Devan Dubnyk,3,12:29,PP,,Xcel Energy Center
+341,2017-03-25,WSH,,ARI,W,,Alex Ovechkin,31-189,555,Nicklas Bäckström,Marcus Johansson,Mike Smith,1,08:31,PP,,Verizon Center
+342,2017-03-21,WSH,,CGY,W,,Alex Ovechkin,31-185,554,Kevin Shattenkirk,Nicklas Bäckström,Brian Elliott,3,17:09,PP,,Verizon Center
+343,2017-03-14,WSH,,MIN,W,,Alex Ovechkin,31-178,553,John Carlson,Nicklas Bäckström,Devan Dubnyk,2,14:52,EV,,Verizon Center
+344,2017-02-19,WSH,@,NYR,L,,Alex Ovechkin,31-155,552,Lars Eller,Evgeny Kuznetsov,Henrik Lundqvist,2,17:24,PP,,Madison Square Garden (IV)
+345,2017-02-07,WSH,,CAR,W,,Alex Ovechkin,31-143,551,Matt Niskanen,Nicklas Bäckström,Eddie Läck,1,10:23,PP,,Verizon Center
+346,2017-02-01,WSH,,BOS,W,,Alex Ovechkin,31-137,550,Matt Niskanen,Nicklas Bäckström,Tuukka Rask,2,19:45,PP,,Verizon Center
+347,2017-01-31,WSH,@,NYI,L,,Alex Ovechkin,31-136,549,Nicklas Bäckström,Evgeny Kuznetsov,Thomas Greiss,3,19:13,EV,,Barclays Center
+348,2017-01-26,WSH,@,NJD,W,,Alex Ovechkin,31-131,548,,,Keith Kinkaid,1,06:14,EV,,Prudential Center
+349,2017-01-21,WSH,@,DAL,W,OT,Alex Ovechkin,31-126,547,Matt Niskanen,Nicklas Bäckström,Kari Lehtonen,3,03:18,PP,,American Airlines Center
+350,2017-01-11,WSH,,PIT,W,,Alex Ovechkin,31-116,545,Nicklas Bäckström,T.J. Oshie,Marc-André Fleury,1,00:35,EV,,Verizon Center
+351,2017-01-11,WSH,,PIT,W,,Alex Ovechkin,31-116,546,John Carlson,Nicklas Bäckström,Marc-André Fleury,2,08:06,PP,,Verizon Center
+352,2017-01-09,WSH,@,MTL,W,,Alex Ovechkin,31-114,544,Nicklas Bäckström,Marcus Johansson,Carey Price,3,16:36,PP,,Bell Centre
+353,2017-01-03,WSH,,TOR,W,OT,Alex Ovechkin,31-108,543,John Carlson,Evgeny Kuznetsov,Frederik Andersen,OT,00:22,EV,,Verizon Center
+354,2016-12-31,WSH,@,NJD,W,,Alex Ovechkin,31-105,542,Matt Niskanen,T.J. Oshie,Keith Kinkaid,2,11:38,EV,,Prudential Center
+355,2016-12-27,WSH,@,NYI,L,,Alex Ovechkin,31-101,541,Justin Williams,Evgeny Kuznetsov,Jaroslav Halák,3,01:17,EV,,Barclays Center
+356,2016-12-23,WSH,,TBL,W,,Alex Ovechkin,31-097,540,Dmitry Orlov,,Andrei Vasilevskiy,2,10:48,EV,,Verizon Center
+357,2016-12-16,WSH,@,CAR,W,SO,Alex Ovechkin,31-090,539,Nicklas Bäckström,John Carlson,Cam Ward,2,06:25,PP,,PNC Arena
+358,2016-12-11,WSH,,VAN,W,,Alex Ovechkin,31-085,538,John Carlson,Nicklas Bäckström,Jacob Markström,1,13:46,PP,,Verizon Center
+359,2016-11-23,WSH,,STL,W,,Alex Ovechkin,31-067,536,John Carlson,André Burakovsky,Carter Hutton,2,10:12,EV,,Verizon Center
+360,2016-11-23,WSH,,STL,W,,Alex Ovechkin,31-067,537,,,Carter Hutton,3,06:53,EV,,Verizon Center
+361,2016-11-23,WSH,,STL,W,,Alex Ovechkin,31-067,535,Evgeny Kuznetsov,Nicklas Bäckström,Carter Hutton,1,17:28,PP,,Verizon Center
+362,2016-11-20,WSH,,CBJ,L,,Alex Ovechkin,31-064,534,Nicklas Bäckström,Matt Niskanen,Sergei Bobrovsky,2,10:31,PP,,Verizon Center
+363,2016-11-16,WSH,,PIT,W,,Alex Ovechkin,31-060,533,André Burakovsky,,Marc-André Fleury,3,10:26,EV,,Verizon Center
+364,2016-11-05,WSH,,FLA,W,,Alex Ovechkin,31-049,532,Brooks Orpik,Nate Schmidt,Roberto Luongo,3,08:42,EV,,Verizon Center
+365,2016-11-03,WSH,,WPG,W,OT,Alex Ovechkin,31-047,530,John Carlson,Nicklas Bäckström,Michael Hutchinson,2,10:04,EV,,Verizon Center
+366,2016-11-03,WSH,,WPG,W,OT,Alex Ovechkin,31-047,531,John Carlson,Nicklas Bäckström,Michael Hutchinson,OT,03:21,PP,,Verizon Center
+367,2016-10-26,WSH,@,EDM,L,,Alex Ovechkin,31-039,529,Matt Niskanen,André Burakovsky,Cam Talbot,3,00:09,EV,,Rogers Place
+368,2016-10-22,WSH,,NYR,L,,Alex Ovechkin,31-035,528,Evgeny Kuznetsov,Dmitry Orlov,Henrik Lundqvist,1,14:49,EV,,Verizon Center
+369,2016-10-20,WSH,@,FLA,W,,Alex Ovechkin,31-033,527,Matt Niskanen,Karl Alzner,Roberto Luongo,3,07:33,EV,,BB&T Center
+370,2016-10-18,WSH,,COL,W,,Alex Ovechkin,31-031,526,Dmitry Orlov,Marcus Johansson,Semyon Varlamov,1,15:44,PP,,Verizon Center
+371,2016-04-09,WSH,@,STL,W,,Alex Ovechkin,30-205,523,John Carlson,Nicklas Bäckström,Brian Elliott,1,04:04,EV,,Scottrade Center
+372,2016-04-09,WSH,@,STL,W,,Alex Ovechkin,30-205,524,Nicklas Bäckström,,Brian Elliott,1,06:49,EV,,Scottrade Center
+373,2016-04-09,WSH,@,STL,W,,Alex Ovechkin,30-205,525,Nicklas Bäckström,T.J. Oshie,Anders Nilsson,3,10:35,EV,,Scottrade Center
+374,2016-04-05,WSH,,NYI,L,OT,Alex Ovechkin,30-201,521,T.J. Oshie,Marcus Johansson,Christopher Gibson,1,04:29,EV,,Verizon Center
+375,2016-04-05,WSH,,NYI,L,OT,Alex Ovechkin,30-201,522,T.J. Oshie,Marcus Johansson,Christopher Gibson,3,06:56,EV,,Verizon Center
+376,2016-04-01,WSH,@,COL,W,,Alex Ovechkin,30-197,520,Marcus Johansson,Evgeny Kuznetsov,Semyon Varlamov,2,12:57,PP,,Pepsi Center
+377,2016-03-30,WSH,@,PHI,L,SO,Alex Ovechkin,30-195,519,Evgeny Kuznetsov,Justin Williams,Steve Mason,3,01:28,PP,,Wells Fargo Center
+378,2016-03-22,WSH,@,OTT,W,,Alex Ovechkin,30-187,518,Marcus Johansson,Nicklas Bäckström,Craig Anderson,1,12:22,PP,,Canadian Tire Centre
+379,2016-03-15,WSH,,CAR,W,OT,Alex Ovechkin,30-180,517,Evgeny Kuznetsov,,Eddie Läck,OT,01:38,EV,,Verizon Center
+380,2016-03-02,WSH,,TOR,W,,Alex Ovechkin,30-167,516,Nicklas Bäckström,T.J. Oshie,Jonathan Bernier,1,18:43,EV,,Verizon Center
+381,2016-02-26,WSH,,MIN,W,,Alex Ovechkin,30-162,515,Matt Niskanen,Nicklas Bäckström,Darcy Kuemper,3,04:35,PP,,Verizon Center
+382,2016-02-22,WSH,,ARI,W,,Alex Ovechkin,30-158,514,Justin Williams,Evgeny Kuznetsov,Louis Domingue,3,08:17,EV,,Verizon Center
+383,2016-02-20,WSH,,NJD,W,,Alex Ovechkin,30-156,513,Dmitry Orlov,,Cory Schneider,1,17:02,EV,,Verizon Center
+384,2016-02-18,WSH,@,NYI,W,OT,Alex Ovechkin,30-154,511,Evgeny Kuznetsov,Justin Williams,Thomas Greiss,2,01:25,EV,,Barclays Center
+385,2016-02-18,WSH,@,NYI,W,OT,Alex Ovechkin,30-154,512,Nicklas Bäckström,T.J. Oshie,Thomas Greiss,2,02:52,PP,,Barclays Center
+386,2016-02-13,WSH,@,DAL,L,,Alex Ovechkin,30-149,510,John Carlson,Nicklas Bäckström,Kari Lehtonen,3,04:03,PP,,American Airlines Center
+387,2016-02-11,WSH,@,MIN,W,,Alex Ovechkin,30-147,507,T.J. Oshie,Nicklas Bäckström,Devan Dubnyk,2,02:14,EV,,Xcel Energy Center
+388,2016-02-11,WSH,@,MIN,W,,Alex Ovechkin,30-147,509,Nicklas Bäckström,,Devan Dubnyk,2,14:55,EV,,Xcel Energy Center
+389,2016-02-11,WSH,@,MIN,W,,Alex Ovechkin,30-147,508,John Carlson,Nicklas Bäckström,Devan Dubnyk,2,05:21,PP,,Xcel Energy Center
+390,2016-02-09,WSH,@,NSH,W,,Alex Ovechkin,30-145,506,Nicklas Bäckström,Marcus Johansson,,3,19:00,PP,EN,Bridgestone Arena
+391,2016-02-07,WSH,,PHI,W,,Alex Ovechkin,30-143,505,Karl Alzner,,Steve Mason,2,15:56,EV,,Verizon Center
+392,2016-02-04,WSH,,NYI,W,,Alex Ovechkin,30-140,504,Nicklas Bäckström,T.J. Oshie,Jaroslav Halák,3,17:20,EV,,Verizon Center
+393,2016-01-19,WSH,@,CBJ,W,,Alex Ovechkin,30-124,503,Evgeny Kuznetsov,Matt Niskanen,Sergei Bobrovsky,2,03:16,PP,,Nationwide Arena
+394,2016-01-17,WSH,,NYR,W,,Alex Ovechkin,30-122,502,Evgeny Kuznetsov,Dmitry Orlov,Antti Raanta,1,18:01,PP,,Verizon Center
+395,2016-01-10,WSH,,OTT,W,,Alex Ovechkin,30-115,501,Nicklas Bäckström,T.J. Oshie,Andrew Hammond,3,09:46,EV,,Verizon Center
+396,2016-01-10,WSH,,OTT,W,,Alex Ovechkin,30-115,500,Jason Chimera,André Burakovsky,Andrew Hammond,2,16:19,PP,,Verizon Center
+397,2016-01-09,WSH,@,NYR,W,OT,Alex Ovechkin,30-114,499,Nate Schmidt,,Henrik Lundqvist,OT,01:25,EV,,Madison Square Garden (IV)
+398,2016-01-09,WSH,@,NYR,W,OT,Alex Ovechkin,30-114,498,,,Henrik Lundqvist,1,19:45,PP,,Madison Square Garden (IV)
+399,2016-01-07,WSH,@,NYI,W,,Alex Ovechkin,30-112,497,Karl Alzner,,Jaroslav Halák,1,15:45,EV,,Barclays Center
+400,2015-12-31,WSH,@,CAR,L,,Alex Ovechkin,30-105,496,Brooks Laich,,Eddie Läck,3,14:16,EV,,PNC Arena
+401,2015-12-30,WSH,,BUF,W,,Alex Ovechkin,30-104,494,Evgeny Kuznetsov,T.J. Oshie,Chad Johnson,3,01:24,EV,,Verizon Center
+402,2015-12-30,WSH,,BUF,W,,Alex Ovechkin,30-104,495,,,,3,18:47,EV,EN,Verizon Center
+403,2015-12-28,WSH,@,BUF,W,,Alex Ovechkin,30-102,493,Nicklas Bäckström,T.J. Oshie,Linus Ullmark,2,00:19,EV,,First Niagara Center
+404,2015-12-20,WSH,@,NYR,W,,Alex Ovechkin,30-094,492,Marcus Johansson,Nicklas Bäckström,Henrik Lundqvist,2,11:03,PP,,Madison Square Garden (IV)
+405,2015-12-18,WSH,,TBL,W,,Alex Ovechkin,30-092,490,T.J. Oshie,John Carlson,Ben Bishop,2,13:49,PP,,Verizon Center
+406,2015-12-18,WSH,,TBL,W,,Alex Ovechkin,30-092,491,Jason Chimera,Justin Williams,Ben Bishop,3,10:02,PP,,Verizon Center
+407,2015-12-10,WSH,@,FLA,L,,Alex Ovechkin,30-084,489,John Carlson,Nicklas Bäckström,Al Montoya,3,17:52,EV,,BB&T Center
+408,2015-12-08,WSH,,DET,W,SO,Alex Ovechkin,30-082,488,Marcus Johansson,Nicklas Bäckström,Jimmy Howard,3,10:51,PP,,Verizon Center
+409,2015-11-27,WSH,,TBL,W,,Alex Ovechkin,30-071,487,Jason Chimera,Evgeny Kuznetsov,Andrei Vasilevskiy,1,07:09,PP,,Verizon Center
+410,2015-11-25,WSH,,WPG,W,,Alex Ovechkin,30-069,486,John Carlson,Nicklas Bäckström,Michael Hutchinson,1,18:46,PP,,Verizon Center
+411,2015-11-21,WSH,,COL,W,,Alex Ovechkin,30-065,485,Nicklas Bäckström,Taylor Chorney,Reto Berra,1,07:15,EV,,Verizon Center
+412,2015-11-19,WSH,,DAL,L,,Alex Ovechkin,30-063,484,Nicklas Bäckström,T.J. Oshie,Kari Lehtonen,3,07:01,EV,,Verizon Center
+413,2015-11-07,WSH,,TOR,W,SO,Alex Ovechkin,30-051,483,Evgeny Kuznetsov,Nicklas Bäckström,James Reimer,2,04:51,PP,,Verizon Center
+414,2015-11-05,WSH,,BOS,W,,Alex Ovechkin,30-049,482,Evgeny Kuznetsov,John Carlson,Tuukka Rask,1,17:27,EV,,Verizon Center
+415,2015-11-03,WSH,@,NYR,L,,Alex Ovechkin,30-047,481,Nate Schmidt,,Henrik Lundqvist,1,15:45,EV,,Madison Square Garden (IV)
+416,2015-10-22,WSH,@,VAN,W,,Alex Ovechkin,30-035,480,Evgeny Kuznetsov,Dmitry Orlov,Ryan Miller,3,15:05,EV,,Rogers Arena
+417,2015-10-20,WSH,@,CGY,W,,Alex Ovechkin,30-033,479,Brooks Orpik,Evgeny Kuznetsov,Karri Rämö,2,00:30,EV,,Scotiabank Saddledome
+418,2015-10-17,WSH,,CAR,W,,Alex Ovechkin,30-030,478,,,Cam Ward,3,16:11,EV,,Verizon Center
+419,2015-10-15,WSH,,CHI,W,,Alex Ovechkin,30-028,477,Evgeny Kuznetsov,T.J. Oshie,Scott Darling,3,14:18,EV,,Verizon Center
+420,2015-10-10,WSH,,NJD,W,,Alex Ovechkin,30-023,476,Matt Niskanen,,Keith Kinkaid,3,06:33,EV,,Verizon Center
+421,2015-04-11,WSH,,NYR,L,,Alex Ovechkin,29-206,475,John Carlson,Nicklas Bäckström,Henrik Lundqvist,2,06:31,PP,,Verizon Center
+422,2015-04-02,WSH,@,MTL,W,SO,Alex Ovechkin,29-197,473,John Carlson,Braden Holtby,Carey Price,2,14:08,PP,,Bell Centre
+423,2015-04-02,WSH,@,MTL,W,SO,Alex Ovechkin,29-197,474,John Carlson,Nicklas Bäckström,Carey Price,3,11:06,PP,,Bell Centre
+424,2015-03-31,WSH,,CAR,W,,Alex Ovechkin,29-195,472,Evgeny Kuznetsov,Matt Niskanen,Cam Ward,1,11:12,EV,,Verizon Center
+425,2015-03-29,WSH,@,NYR,W,,Alex Ovechkin,29-193,470,Joel Ward,John Carlson,Cam Talbot,1,04:32,EV,,Madison Square Garden (IV)
+426,2015-03-29,WSH,@,NYR,W,,Alex Ovechkin,29-193,471,Nicklas Bäckström,Matt Niskanen,Cam Talbot,2,11:17,PP,,Madison Square Garden (IV)
+427,2015-03-19,WSH,@,MIN,W,,Alex Ovechkin,29-183,468,Karl Alzner,Matt Niskanen,Devan Dubnyk,2,15:25,EV,,Xcel Energy Center
+428,2015-03-19,WSH,@,MIN,W,,Alex Ovechkin,29-183,469,Nicklas Bäckström,,Devan Dubnyk,3,03:05,EV,,Xcel Energy Center
+429,2015-03-11,WSH,,NYR,L,,Alex Ovechkin,29-175,467,Evgeny Kuznetsov,Joel Ward,Cam Talbot,1,11:43,PP,,Verizon Center
+430,2015-03-07,WSH,,BUF,W,,Alex Ovechkin,29-171,466,John Carlson,Nicklas Bäckström,Matt Hackett,2,09:31,PP,,Verizon Center
+431,2015-03-03,WSH,@,CBJ,W,,Alex Ovechkin,29-167,464,Brooks Orpik,Nicklas Bäckström,Sergei Bobrovsky,1,03:37,EV,,Nationwide Arena
+432,2015-03-03,WSH,@,CBJ,W,,Alex Ovechkin,29-167,465,Nicklas Bäckström,John Carlson,Sergei Bobrovsky,3,03:17,PP,,Nationwide Arena
+433,2015-03-01,WSH,,TOR,W,,Alex Ovechkin,29-165,462,Nicklas Bäckström,Karl Alzner,James Reimer,1,00:33,EV,,Verizon Center
+434,2015-03-01,WSH,,TOR,W,,Alex Ovechkin,29-165,463,Brooks Orpik,John Carlson,James Reimer,2,05:30,EV,,Verizon Center
+435,2015-02-25,WSH,,PIT,L,,Alex Ovechkin,29-161,461,John Carlson,Troy Brouwer,Marc-André Fleury,3,16:26,PP,,Verizon Center
+436,2015-02-19,WSH,,WPG,W,,Alex Ovechkin,29-155,460,Karl Alzner,Matt Niskanen,Ondřej Pavelec,1,18:35,EV,,Verizon Center
+437,2015-02-17,WSH,@,PIT,W,,Alex Ovechkin,29-153,459,Joel Ward,Mike Green,Marc-André Fleury,1,18:36,PP,,CONSOL Energy Center
+438,2015-02-15,WSH,@,ANA,W,,Alex Ovechkin,29-151,457,Nicklas Bäckström,,John Gibson,1,01:22,EV,,Honda Center
+439,2015-02-15,WSH,@,ANA,W,,Alex Ovechkin,29-151,458,Mike Green,Nicklas Bäckström,John Gibson,1,10:26,PP,,Honda Center
+440,2015-02-14,WSH,@,LAK,L,,Alex Ovechkin,29-150,456,Evgeny Kuznetsov,,Jonathan Quick,3,01:55,EV,,STAPLES Center
+441,2015-02-08,WSH,,PHI,L,,Alex Ovechkin,29-144,455,Evgeny Kuznetsov,Nicklas Bäckström,Ray Emery,2,13:29,PP,,Verizon Center
+442,2015-02-05,WSH,@,OTT,W,,Alex Ovechkin,29-141,454,Jay Beagle,Marcus Johansson,Robin Lehner,2,14:17,EV,,Canadian Tire Centre
+443,2015-02-01,WSH,,STL,L,,Alex Ovechkin,29-137,453,Nicklas Bäckström,,Brian Elliott,2,14:30,EV,,Verizon Center
+444,2015-02-01,WSH,,STL,L,,Alex Ovechkin,29-137,452,Mike Green,Nicklas Bäckström,Brian Elliott,1,09:50,PP,,Verizon Center
+445,2015-01-28,WSH,,PIT,W,,Alex Ovechkin,29-133,450,Karl Alzner,Nicklas Bäckström,Marc-André Fleury,1,04:50,EV,,Verizon Center
+446,2015-01-28,WSH,,PIT,W,,Alex Ovechkin,29-133,451,Mike Green,Nicklas Bäckström,Marc-André Fleury,2,17:19,PP,,Verizon Center
+447,2015-01-20,WSH,,EDM,L,SO,Alex Ovechkin,29-125,448,André Burakovsky,Mike Green,Viktor Fasth,1,01:48,EV,,Verizon Center
+448,2015-01-20,WSH,,EDM,L,SO,Alex Ovechkin,29-125,449,Mike Green,Marcus Johansson,Viktor Fasth,1,13:58,PP,,Verizon Center
+449,2015-01-17,WSH,@,DAL,L,,Alex Ovechkin,29-122,447,Nicklas Bäckström,,Kari Lehtonen,3,00:21,EV,,American Airlines Center
+450,2015-01-16,WSH,@,NSH,L,,Alex Ovechkin,29-121,445,Karl Alzner,Nicklas Bäckström,Carter Hutton,2,03:46,EV,,Bridgestone Arena
+451,2015-01-16,WSH,@,NSH,L,,Alex Ovechkin,29-121,446,Mike Green,Troy Brouwer,Carter Hutton,2,06:18,PP,,Bridgestone Arena
+452,2015-01-12,WSH,,COL,W,,Alex Ovechkin,29-117,444,Troy Brouwer,Nicklas Bäckström,Semyon Varlamov,2,17:46,PP,,Verizon Center
+453,2015-01-08,WSH,@,PHI,L,OT,Alex Ovechkin,29-113,443,Mike Green,Marcus Johansson,Steve Mason,1,03:08,PP,,Wells Fargo Center
+454,2015-01-07,WSH,@,TOR,W,,Alex Ovechkin,29-112,442,,,,3,19:33,EV,EN,Air Canada Centre
+455,2015-01-04,WSH,,FLA,W,,Alex Ovechkin,29-109,441,Nicklas Bäckström,Marcus Johansson,Roberto Luongo,2,01:16,PP,,Verizon Center
+456,2015-01-01,WSH,,CHI,W,,Alex Ovechkin,29-106,440,Mike Green,Jack Hillen,Corey Crawford,1,11:58,EV,,Nationals Park
+457,2014-12-29,WSH,@,NYI,L,OT,Alex Ovechkin,29-103,439,Nicklas Bäckström,,Jaroslav Halák,3,17:19,EV,,Nassau Veterans Memorial Coliseum
+458,2014-12-23,WSH,@,NYR,L,,Alex Ovechkin,29-097,438,John Carlson,Marcus Johansson,Henrik Lundqvist,3,10:58,PP,,Madison Square Garden (IV)
+459,2014-12-20,WSH,@,NJD,W,,Alex Ovechkin,29-094,437,Nicklas Bäckström,,Cory Schneider,3,07:16,EV,,Prudential Center
+460,2014-12-09,WSH,@,TBL,W,,Alex Ovechkin,29-083,435,Tom Wilson,John Carlson,Ben Bishop,1,00:40,EV,,Amalie Arena
+461,2014-12-09,WSH,@,TBL,W,,Alex Ovechkin,29-083,436,Nicklas Bäckström,,,3,19:59,EV,EN,Amalie Arena
+462,2014-11-28,WSH,,NYI,W,,Alex Ovechkin,29-072,434,Tom Wilson,Nicklas Bäckström,Chad Johnson,2,09:53,EV,,Verizon Center
+463,2014-11-26,WSH,@,NYI,L,OT,Alex Ovechkin,29-070,432,Matt Niskanen,Nicklas Bäckström,Jaroslav Halák,1,13:46,PP,,Nassau Veterans Memorial Coliseum
+464,2014-11-26,WSH,@,NYI,L,OT,Alex Ovechkin,29-070,433,Nicklas Bäckström,Marcus Johansson,Jaroslav Halák,2,18:47,PP,,Nassau Veterans Memorial Coliseum
+465,2014-11-20,WSH,@,COL,W,,Alex Ovechkin,29-064,431,Brooks Orpik,Nicklas Bäckström,Reto Berra,3,14:04,EV,,Pepsi Center
+466,2014-11-11,WSH,,CBJ,W,,Alex Ovechkin,29-055,430,Jay Beagle,Nicklas Bäckström,Curtis McElhinney,1,16:04,EV,,Verizon Center
+467,2014-11-11,WSH,,CBJ,W,,Alex Ovechkin,29-055,429,Mike Green,Nicklas Bäckström,Curtis McElhinney,1,07:49,PP,,Verizon Center
+468,2014-11-02,WSH,,ARI,L,,Alex Ovechkin,29-046,428,Mike Green,Nicklas Bäckström,Devan Dubnyk,1,16:09,PP,,Verizon Center
+469,2014-10-16,WSH,,NJD,W,,Alex Ovechkin,29-029,427,Troy Brouwer,Brooks Orpik,Cory Schneider,1,00:34,EV,,Verizon Center
+470,2014-10-14,WSH,,SJS,L,SO,Alex Ovechkin,29-027,425,Nicklas Bäckström,Eric Fehr,Antti Niemi,2,07:09,EV,,Verizon Center
+471,2014-10-14,WSH,,SJS,L,SO,Alex Ovechkin,29-027,426,Nicklas Bäckström,John Carlson,Antti Niemi,3,14:09,PP,,Verizon Center
+472,2014-10-11,WSH,@,BOS,W,,Alex Ovechkin,29-024,424,Nicklas Bäckström,Karl Alzner,Tuukka Rask,1,18:39,EV,,TD Garden
+473,2014-10-11,WSH,@,BOS,W,,Alex Ovechkin,29-024,423,John Carlson,Nicklas Bäckström,Tuukka Rask,1,11:26,PP,,TD Garden
+474,2014-04-11,WSH,,CHI,W,,Alex Ovechkin,28-206,422,John Carlson,Nicklas Bäckström,Corey Crawford,1,02:04,PP,,Verizon Center
+475,2014-04-08,WSH,@,STL,W,,Alex Ovechkin,28-203,421,John Carlson,Joel Ward,Ryan Miller,1,17:54,PP,,Scottrade Center
+476,2014-04-04,WSH,@,NJD,L,,Alex Ovechkin,28-199,420,Mikhail Grabovski,Nicklas Bäckström,Cory Schneider,1,10:12,EV,,Prudential Center
+477,2014-03-25,WSH,,LAK,L,SO,Alex Ovechkin,28-189,418,John Carlson,Troy Brouwer,Jonathan Quick,1,02:24,PP,,Verizon Center
+478,2014-03-25,WSH,,LAK,L,SO,Alex Ovechkin,28-189,419,Troy Brouwer,Nicklas Bäckström,Jonathan Quick,1,07:04,PP,,Verizon Center
+479,2014-03-18,WSH,@,ANA,W,,Alex Ovechkin,28-182,417,John Carlson,Nicklas Bäckström,Jonas Hiller,3,02:44,PP,,Honda Center
+480,2014-03-14,WSH,,VAN,W,,Alex Ovechkin,28-178,416,John Carlson,Evgeny Kuznetsov,Eddie Läck,2,08:28,PP,,Verizon Center
+481,2014-03-05,WSH,@,PHI,L,,Alex Ovechkin,28-169,415,Nicklas Bäckström,John Carlson,Steve Mason,3,06:35,PP,,Wells Fargo Center
+482,2014-03-01,WSH,@,BOS,W,,Alex Ovechkin,28-165,413,John Carlson,Nicklas Bäckström,Tuukka Rask,1,18:39,PP,,TD Garden
+483,2014-03-01,WSH,@,BOS,W,,Alex Ovechkin,28-165,414,Marcus Johansson,Joel Ward,Tuukka Rask,2,02:24,PP,,TD Garden
+484,2014-02-27,WSH,@,FLA,W,,Alex Ovechkin,28-163,412,Brooks Laich,Nicklas Bäckström,Tim Thomas,3,15:43,EV,,BB&T Center
+485,2014-02-06,WSH,,WPG,W,,Alex Ovechkin,28-142,411,Nicklas Bäckström,Karl Alzner,Ondřej Pavelec,3,07:46,EV,,Verizon Center
+486,2014-02-02,WSH,,DET,W,OT,Alex Ovechkin,28-138,410,John Carlson,Nicklas Bäckström,Jimmy Howard,OT,02:37,PP,,Verizon Center
+487,2014-01-28,WSH,@,BUF,W,OT,Alex Ovechkin,28-133,409,Mike Green,Marcus Johansson,Jhonas Enroth,1,04:42,EV,,First Niagara Center
+488,2014-01-28,WSH,@,BUF,W,OT,Alex Ovechkin,28-133,408,Nicklas Bäckström,Troy Brouwer,Jhonas Enroth,1,03:49,PP,,First Niagara Center
+489,2014-01-25,WSH,@,MTL,W,,Alex Ovechkin,28-130,407,Jason Chimera,Joel Ward,Carey Price,2,01:46,EV,,Bell Centre
+490,2014-01-19,WSH,@,NYR,L,,Alex Ovechkin,28-124,406,Mike Green,Nicklas Bäckström,Henrik Lundqvist,2,00:59,PP,,Madison Square Garden (IV)
+491,2014-01-15,WSH,@,PIT,L,,Alex Ovechkin,28-120,405,Marcus Johansson,Mike Green,Marc-André Fleury,3,08:35,EV,,CONSOL Energy Center
+492,2014-01-14,WSH,,SJS,L,SO,Alex Ovechkin,28-119,404,Karl Alzner,Mikhail Grabovski,Antti Niemi,2,12:44,EV,,Verizon Center
+493,2014-01-10,WSH,,TOR,W,,Alex Ovechkin,28-115,403,Mikhail Grabovski,Mike Green,Jonathan Bernier,2,06:39,EV,,Verizon Center
+494,2014-01-02,WSH,,CAR,L,OT,Alex Ovechkin,28-107,402,Marcus Johansson,Karl Alzner,Anton Khudobin,2,00:49,EV,,Verizon Center
+495,2013-12-21,WSH,,NJD,L,OT,Alex Ovechkin,28-095,401,Karl Alzner,,Martin Brodeur,3,08:07,EV,,Verizon Center
+496,2013-12-20,WSH,@,CAR,W,,Alex Ovechkin,28-094,400,Nicklas Bäckström,Martin Erat,,3,19:35,EV,EN,PNC Arena
+497,2013-12-17,WSH,@,PHI,L,,Alex Ovechkin,28-091,399,Nicklas Bäckström,Marcus Johansson,Steve Mason,2,00:40,PP,,Wells Fargo Center
+498,2013-12-15,WSH,,PHI,W,SO,Alex Ovechkin,28-089,398,Joel Ward,,Steve Mason,3,19:12,EV,,Verizon Center
+499,2013-12-10,WSH,,TBL,W,SO,Alex Ovechkin,28-084,394,Nicklas Bäckström,,Ben Bishop,1,14:15,EV,,Verizon Center
+500,2013-12-10,WSH,,TBL,W,SO,Alex Ovechkin,28-084,397,John Carlson,Nicklas Bäckström,Ben Bishop,3,19:27,EV,,Verizon Center
+501,2013-12-10,WSH,,TBL,W,SO,Alex Ovechkin,28-084,395,Marcus Johansson,Nicklas Bäckström,Ben Bishop,2,16:38,PP,,Verizon Center
+502,2013-12-10,WSH,,TBL,W,SO,Alex Ovechkin,28-084,396,Mike Green,Nicklas Bäckström,Ben Bishop,2,18:48,PP,,Verizon Center
+503,2013-12-07,WSH,,NSH,W,,Alex Ovechkin,28-081,393,Nicklas Bäckström,,Marek Mazanec,1,13:09,PP,,Verizon Center
+504,2013-11-30,WSH,@,NYI,W,OT,Alex Ovechkin,28-074,392,Mikhail Grabovski,Nate Schmidt,Anders Nilsson,OT,02:07,EV,,Nassau Veterans Memorial Coliseum
+505,2013-11-23,WSH,@,TOR,L,SO,Alex Ovechkin,28-067,391,Mike Green,,James Reimer,3,15:50,EV,,Air Canada Centre
+506,2013-11-22,WSH,,MTL,L,,Alex Ovechkin,28-066,390,John Carlson,Mikhail Grabovski,Peter Budaj,3,12:27,EV,,Verizon Center
+507,2013-11-22,WSH,,MTL,L,,Alex Ovechkin,28-066,389,John Carlson,Troy Brouwer,Peter Budaj,1,19:37,PP,,Verizon Center
+508,2013-11-17,WSH,,STL,W,,Alex Ovechkin,28-061,387,Nicklas Bäckström,Steven Oleksy,Jaroslav Halák,1,07:17,EV,,Verizon Center
+509,2013-11-17,WSH,,STL,W,,Alex Ovechkin,28-061,388,Karl Alzner,Nicklas Bäckström,Jaroslav Halák,1,12:34,EV,,Verizon Center
+510,2013-11-15,WSH,@,DET,W,SO,Alex Ovechkin,28-059,386,Marcus Johansson,Nicklas Bäckström,Jimmy Howard,3,03:19,EV,,Joe Louis Arena
+511,2013-11-12,WSH,,CBJ,W,OT,Alex Ovechkin,28-056,385,Marcus Johansson,John Carlson,Sergei Bobrovsky,OT,01:34,EV,,Verizon Center
+512,2013-11-07,WSH,,MIN,W,SO,Alex Ovechkin,28-051,384,Nicklas Bäckström,Marcus Johansson,Josh Harding,1,08:10,PP,,Verizon Center
+513,2013-11-05,WSH,,NYI,W,,Alex Ovechkin,28-049,382,Nicklas Bäckström,,Evgeni Nabokov,2,04:21,PP,,Verizon Center
+514,2013-11-05,WSH,,NYI,W,,Alex Ovechkin,28-049,383,Marcus Johansson,Nicklas Bäckström,Evgeni Nabokov,2,17:18,PP,,Verizon Center
+515,2013-10-24,WSH,@,EDM,W,,Alex Ovechkin,28-037,381,Marcus Johansson,Nicklas Bäckström,Devan Dubnyk,1,18:13,EV,,Rexall Place
+516,2013-10-22,WSH,@,WPG,W,SO,Alex Ovechkin,28-035,379,Marcus Johansson,,Ondřej Pavelec,2,15:50,EV,,MTS Centre
+517,2013-10-22,WSH,@,WPG,W,SO,Alex Ovechkin,28-035,380,Marcus Johansson,,Ondřej Pavelec,2,18:02,EV,,MTS Centre
+518,2013-10-19,WSH,,CBJ,W,,Alex Ovechkin,28-032,378,Mike Green,Martin Erat,Sergei Bobrovsky,3,06:34,PP,,Verizon Center
+519,2013-10-14,WSH,,EDM,W,,Alex Ovechkin,28-027,377,Marcus Johansson,Nicklas Bäckström,Jason LaBarbera,2,13:18,EV,,Verizon Center
+520,2013-10-10,WSH,,CAR,L,,Alex Ovechkin,28-023,376,Steven Oleksy,Nicklas Bäckström,Anton Khudobin,2,13:52,EV,,Verizon Center
+521,2013-10-05,WSH,@,DAL,L,,Alex Ovechkin,28-018,375,Mike Green,Marcus Johansson,Kari Lehtonen,1,04:26,PP,,American Airlines Center
+522,2013-10-03,WSH,,CGY,W,SO,Alex Ovechkin,28-016,374,Marcus Johansson,Nicklas Bäckström,Karri Rämö,2,15:25,EV,,Verizon Center
+523,2013-10-03,WSH,,CGY,W,SO,Alex Ovechkin,28-016,373,Mike Green,Marcus Johansson,Karri Rämö,2,11:24,PP,,Verizon Center
+524,2013-10-01,WSH,@,CHI,L,,Alex Ovechkin,28-014,372,Mikhail Grabovski,Nicklas Bäckström,Corey Crawford,1,10:42,PP,,United Center
+525,2013-04-25,WSH,,OTT,L,OT,Alex Ovechkin,27-220,371,Marcus Johansson,Mike Green,Craig Anderson,3,08:31,EV,,Verizon Center
+526,2013-04-23,WSH,,WPG,W,,Alex Ovechkin,27-218,370,Nicklas Bäckström,Marcus Johansson,,3,19:31,EV,EN,Verizon Center
+527,2013-04-20,WSH,@,MTL,W,,Alex Ovechkin,27-215,368,Nicklas Bäckström,,Carey Price,1,04:49,EV,,Bell Centre
+528,2013-04-20,WSH,@,MTL,W,,Alex Ovechkin,27-215,369,Mike Green,Mike Ribeiro,Carey Price,3,13:23,PP,,Bell Centre
+529,2013-04-16,WSH,,TOR,W,,Alex Ovechkin,27-211,367,Mike Green,Mike Ribeiro,Ben Scrivens,2,13:59,PP,,Verizon Center
+530,2013-04-13,WSH,,TBL,W,OT,Alex Ovechkin,27-208,366,Nicklas Bäckström,,Ben Bishop,1,19:22,EV,,Verizon Center
+531,2013-04-09,WSH,@,MTL,W,,Alex Ovechkin,27-204,365,John Carlson,Nicklas Bäckström,Carey Price,2,07:50,EV,,Bell Centre
+532,2013-04-07,WSH,,TBL,W,,Alex Ovechkin,27-202,363,Jack Hillen,Nicklas Bäckström,Ben Bishop,2,03:14,EV,,Verizon Center
+533,2013-04-07,WSH,,TBL,W,,Alex Ovechkin,27-202,364,Mike Ribeiro,,,3,19:55,EV,EN,Verizon Center
+534,2013-04-06,WSH,@,FLA,W,,Alex Ovechkin,27-201,361,Nicklas Bäckström,Marcus Johansson,Jacob Markström,2,02:24,EV,,BB&T Center
+535,2013-04-06,WSH,@,FLA,W,,Alex Ovechkin,27-201,360,Mike Ribeiro,Nicklas Bäckström,Jacob Markström,1,15:45,PP,,BB&T Center
+536,2013-04-06,WSH,@,FLA,W,,Alex Ovechkin,27-201,362,Marcus Johansson,Nicklas Bäckström,Jacob Markström,2,14:22,PP,,BB&T Center
+537,2013-04-02,WSH,@,CAR,W,,Alex Ovechkin,27-197,358,Nicklas Bäckström,John Carlson,Dan Ellis,1,19:21,EV,,PNC Arena
+538,2013-04-02,WSH,@,CAR,W,,Alex Ovechkin,27-197,359,Nicklas Bäckström,Marcus Johansson,Justin Peters,2,11:06,EV,,PNC Arena
+539,2013-03-31,WSH,@,PHI,L,OT,Alex Ovechkin,27-195,357,John Carlson,Troy Brouwer,Ilya Bryzgalov,3,06:48,PP,,Wells Fargo Center
+540,2013-03-30,WSH,@,BUF,W,SO,Alex Ovechkin,27-194,356,Mike Green,Brooks Laich,Jhonas Enroth,2,02:21,PP,,First Niagara Center
+541,2013-03-24,WSH,@,NYR,W,SO,Alex Ovechkin,27-188,355,Steven Oleksy,Nicklas Bäckström,Henrik Lundqvist,1,09:45,EV,,Madison Square Garden (IV)
+542,2013-03-22,WSH,@,WPG,W,,Alex Ovechkin,27-186,353,Marcus Johansson,Karl Alzner,Al Montoya,2,07:35,EV,,MTS Centre
+543,2013-03-22,WSH,@,WPG,W,,Alex Ovechkin,27-186,354,John Carlson,Nicklas Bäckström,Al Montoya,3,15:58,PP,,MTS Centre
+544,2013-03-21,WSH,@,WPG,W,,Alex Ovechkin,27-185,352,Nicklas Bäckström,John Carlson,Ondřej Pavelec,3,14:06,PP,,MTS Centre
+545,2013-03-19,WSH,@,PIT,L,,Alex Ovechkin,27-183,351,Troy Brouwer,Mike Ribeiro,Marc-André Fleury,2,08:14,PP,,CONSOL Energy Center
+546,2013-03-17,WSH,,BUF,W,,Alex Ovechkin,27-181,350,Marcus Johansson,Nicklas Bäckström,Ryan Miller,1,00:19,EV,,Verizon Center
+547,2013-03-14,WSH,@,CAR,W,,Alex Ovechkin,27-178,349,Troy Brouwer,Nicklas Bäckström,Dan Ellis,3,01:01,PP,,PNC Arena
+548,2013-03-07,WSH,,FLA,W,,Alex Ovechkin,27-171,348,Troy Brouwer,Mike Ribeiro,Scott Clemmensen,2,09:17,PP,,Verizon Center
+549,2013-02-23,WSH,,NJD,W,,Alex Ovechkin,27-159,345,Mike Ribeiro,Jason Chimera,Johan Hedberg,2,05:20,EV,,Verizon Center
+550,2013-02-23,WSH,,NJD,W,,Alex Ovechkin,27-159,346,Matt Hendricks,Jeff Schultz,Johan Hedberg,3,01:23,EV,,Verizon Center
+551,2013-02-23,WSH,,NJD,W,,Alex Ovechkin,27-159,347,Mike Ribeiro,Nicklas Bäckström,Johan Hedberg,3,15:13,PP,,Verizon Center
+552,2013-02-12,WSH,@,FLA,W,OT,Alex Ovechkin,27-148,344,Mike Ribeiro,Nicklas Bäckström,Scott Clemmensen,3,17:11,PP,,BB&T Center
+553,2013-02-09,WSH,,FLA,W,,Alex Ovechkin,27-145,343,Jason Chimera,Mike Ribeiro,José Théodore,3,03:49,EV,,Verizon Center
+554,2013-02-07,WSH,@,PIT,L,,Alex Ovechkin,27-143,342,Mike Ribeiro,Mike Green,Marc-André Fleury,3,08:34,PP,,CONSOL Energy Center
+555,2013-01-31,WSH,@,TOR,L,,Alex Ovechkin,27-136,341,Mike Ribeiro,Nicklas Bäckström,James Reimer,2,02:38,PP,,Air Canada Centre
+556,2013-01-27,WSH,,BUF,W,,Alex Ovechkin,27-132,340,Mike Green,Mike Ribeiro,Ryan Miller,3,05:11,PP,,Verizon Center
+557,2012-04-07,WSH,@,NYR,W,,Alex Ovechkin,26-203,339,Brooks Laich,,Henrik Lundqvist,1,00:32,EV,,Madison Square Garden (IV)
+558,2012-04-05,WSH,,FLA,W,,Alex Ovechkin,26-201,338,Marcus Johansson,,José Théodore,2,07:49,EV,,Verizon Center
+559,2012-03-25,WSH,,MIN,W,,Alex Ovechkin,26-190,337,Marcus Johansson,John Carlson,Matt Hackett,3,08:31,EV,,Verizon Center
+560,2012-03-23,WSH,,WPG,L,OT,Alex Ovechkin,26-188,335,Brooks Laich,Mike Knuble,Ondřej Pavelec,2,01:42,EV,,Verizon Center
+561,2012-03-23,WSH,,WPG,L,OT,Alex Ovechkin,26-188,336,Mathieu Perreault,Jason Chimera,Ondřej Pavelec,2,05:47,EV,,Verizon Center
+562,2012-03-22,WSH,@,PHI,L,SO,Alex Ovechkin,26-187,334,,,Ilya Bryzgalov,1,00:26,EV,,Wells Fargo Center
+563,2012-03-19,WSH,@,DET,W,,Alex Ovechkin,26-184,332,Marcus Johansson,Dennis Wideman,Jimmy Howard,1,07:48,PP,,Joe Louis Arena
+564,2012-03-19,WSH,@,DET,W,,Alex Ovechkin,26-184,333,Brooks Laich,Alexander Semin,Jimmy Howard,1,14:51,PP,,Joe Louis Arena
+565,2012-03-18,WSH,@,CHI,L,,Alex Ovechkin,26-183,331,Michal Neuvirth,Dmitry Orlov,Corey Crawford,2,14:28,EV,,United Center
+566,2012-03-13,WSH,@,NYI,W,SO,Alex Ovechkin,26-178,329,Brooks Laich,Marcus Johansson,Evgeni Nabokov,2,19:07,EV,,Nassau Veterans Memorial Coliseum
+567,2012-03-13,WSH,@,NYI,W,SO,Alex Ovechkin,26-178,330,Keith Aucoin,Joel Ward,Evgeni Nabokov,3,10:15,EV,,Nassau Veterans Memorial Coliseum
+568,2012-03-08,WSH,,TBL,W,OT,Alex Ovechkin,26-173,328,Dmitry Orlov,Jason Chimera,Dustin Tokarski,OT,04:09,EV,,Verizon Center
+569,2012-02-28,WSH,,NYI,W,OT,Alex Ovechkin,26-164,327,,,Evgeni Nabokov,OT,01:35,EV,,Verizon Center
+570,2012-02-24,WSH,,MTL,W,,Alex Ovechkin,26-160,326,Dmitry Orlov,Marcus Johansson,Carey Price,2,08:58,EV,,Verizon Center
+571,2012-02-17,WSH,@,FLA,W,,Alex Ovechkin,26-153,325,Alexander Semin,Mike Knuble,José Théodore,3,04:47,PP,,BankAtlantic Center
+572,2012-02-09,WSH,,WPG,L,SO,Alex Ovechkin,26-145,324,Alexander Semin,Dennis Wideman,Ondřej Pavelec,3,09:46,PP,,Verizon Center
+573,2012-02-07,WSH,,FLA,W,,Alex Ovechkin,26-143,323,,,Scott Clemmensen,2,11:47,EV,,Verizon Center
+574,2012-02-07,WSH,,FLA,W,,Alex Ovechkin,26-143,322,Dennis Wideman,Marcus Johansson,Scott Clemmensen,1,09:21,PP,,Verizon Center
+575,2012-01-22,WSH,@,PIT,L,OT,Alex Ovechkin,26-127,321,Alexander Semin,Mathieu Perreault,Marc-André Fleury,3,01:08,EV,,CONSOL Energy Center
+576,2012-01-18,WSH,@,MTL,W,,Alex Ovechkin,26-123,320,Alexander Semin,Dennis Wideman,Carey Price,2,10:44,PP,,Bell Centre
+577,2012-01-13,WSH,,TBL,W,,Alex Ovechkin,26-118,319,Marcus Johansson,Dennis Wideman,Dwayne Roloson,1,03:52,PP,,Verizon Center
+578,2012-01-03,WSH,,CGY,W,,Alex Ovechkin,26-108,318,Marcus Johansson,Nicklas Bäckström,Miikka Kiprusoff,1,01:11,PP,,Verizon Center
+579,2011-12-31,WSH,@,CBJ,W,,Alex Ovechkin,26-105,316,Dennis Wideman,,Steve Mason,3,04:23,EV,,Nationwide Arena
+580,2011-12-31,WSH,@,CBJ,W,,Alex Ovechkin,26-105,317,Dmitry Orlov,Karl Alzner,Steve Mason,3,11:03,PP,,Nationwide Arena
+581,2011-12-30,WSH,,BUF,W,,Alex Ovechkin,26-104,315,Nicklas Bäckström,Alexander Semin,Ryan Miller,3,14:10,EV,,Verizon Center
+582,2011-12-30,WSH,,BUF,W,,Alex Ovechkin,26-104,314,Tomáš Vokoun,,Ryan Miller,1,01:42,PP,,Verizon Center
+583,2011-12-26,WSH,@,BUF,L,,Alex Ovechkin,26-100,313,Nicklas Bäckström,Dennis Wideman,Ryan Miller,3,09:51,PP,,First Niagara Center
+584,2011-12-20,WSH,,NSH,W,,Alex Ovechkin,26-094,312,Karl Alzner,John Carlson,Anders Lindbäck,1,07:42,EV,,Verizon Center
+585,2011-12-15,WSH,@,WPG,W,,Alex Ovechkin,26-089,311,Marcus Johansson,Nicklas Bäckström,Ondřej Pavelec,3,18:46,EV,,MTS Centre
+586,2011-12-07,WSH,@,OTT,W,,Alex Ovechkin,26-081,310,Nicklas Bäckström,Dmitry Orlov,Craig Anderson,3,13:50,EV,,Scotiabank Place
+587,2011-11-25,WSH,,NYR,L,,Alex Ovechkin,26-069,309,Nicklas Bäckström,Troy Brouwer,Henrik Lundqvist,3,05:57,EV,,Verizon Center
+588,2011-11-11,WSH,@,NJD,W,,Alex Ovechkin,26-055,308,Dennis Wideman,Nicklas Bäckström,Martin Brodeur,2,17:33,EV,,Prudential Center
+589,2011-11-05,WSH,@,NYI,L,,Alex Ovechkin,26-049,307,Nicklas Bäckström,Jeff Schultz,Rick DiPietro,1,18:41,EV,,Nassau Veterans Memorial Coliseum
+590,2011-10-29,WSH,@,VAN,L,,Alex Ovechkin,26-042,305,Troy Brouwer,Nicklas Bäckström,Roberto Luongo,1,08:55,EV,,Rogers Arena
+591,2011-10-29,WSH,@,VAN,L,,Alex Ovechkin,26-042,306,Nicklas Bäckström,John Carlson,Roberto Luongo,2,01:25,PP,,Rogers Arena
+592,2011-10-20,WSH,@,PHI,W,,Alex Ovechkin,26-033,303,Nicklas Bäckström,Troy Brouwer,Ilya Bryzgalov,1,19:48,EV,,Wells Fargo Center
+593,2011-10-20,WSH,@,PHI,W,,Alex Ovechkin,26-033,304,Nicklas Bäckström,Dennis Wideman,Ilya Bryzgalov,3,03:54,PP,,Wells Fargo Center
+594,2011-10-13,WSH,@,PIT,W,OT,Alex Ovechkin,26-026,302,Mike Green,Nicklas Bäckström,Brent Johnson,3,00:40,EV,,CONSOL Energy Center
+595,2011-04-06,WSH,,FLA,W,,Alex Ovechkin,25-201,301,Nicklas Bäckström,,,3,19:48,EV,EN,Verizon Center
+596,2011-04-05,WSH,@,TOR,W,SO,Alex Ovechkin,25-200,300,Brooks Laich,Marco Sturm,James Reimer,1,11:28,PP,,Air Canada Centre
+597,2011-04-02,WSH,,BUF,W,OT,Alex Ovechkin,25-197,299,John Carlson,Nicklas Bäckström,Jhonas Enroth,OT,03:19,EV,,Verizon Center
+598,2011-03-16,WSH,@,DET,L,,Alex Ovechkin,25-180,298,Alexander Semin,Scott Hannan,Jimmy Howard,2,05:53,EV,,Joe Louis Arena
+599,2011-03-11,WSH,,CAR,W,,Alex Ovechkin,25-175,297,Marcus Johansson,Mike Knuble,Cam Ward,3,00:47,EV,,Verizon Center
+600,2011-03-09,WSH,,EDM,W,,Alex Ovechkin,25-173,296,Marcus Johansson,,Nikolai Khabibulin,3,03:10,EV,,Verizon Center
+601,2011-03-09,WSH,,EDM,W,,Alex Ovechkin,25-173,295,Jason Arnott,Alexander Semin,Nikolai Khabibulin,2,05:38,PP,,Verizon Center
+602,2011-03-01,WSH,,NYI,W,OT,Alex Ovechkin,25-165,294,John Carlson,,Nathan Lawson,OT,01:55,EV,,Verizon Center
+603,2011-02-21,WSH,@,PIT,W,,Alex Ovechkin,25-157,293,Marcus Johansson,Mike Knuble,Marc-André Fleury,2,16:38,PP,,CONSOL Energy Center
+604,2011-02-17,WSH,@,SJS,L,,Alex Ovechkin,25-153,292,John Carlson,Alexander Semin,Antti Niemi,1,19:11,PP,,HP Pavilion at San Jose
+605,2011-02-16,WSH,@,ANA,W,,Alex Ovechkin,25-152,291,Nicklas Bäckström,Karl Alzner,Curtis McElhinney,1,10:43,EV,,Honda Center
+606,2011-02-12,WSH,,LAK,L,,Alex Ovechkin,25-148,290,,,Jonathan Bernier,1,01:06,EV,,Verizon Center
+607,2011-02-04,WSH,@,TBL,W,,Alex Ovechkin,25-140,289,Nicklas Bäckström,John Carlson,Dwayne Roloson,2,08:25,PP,,St. Pete Times Forum
+608,2011-01-22,WSH,@,TOR,W,,Alex Ovechkin,25-127,286,Jeff Schultz,Nicklas Bäckström,Jean-Sébastien Giguère,1,14:27,EV,,Air Canada Centre
+609,2011-01-22,WSH,@,TOR,W,,Alex Ovechkin,25-127,287,Mike Green,Jason Chimera,Jean-Sébastien Giguère,3,01:12,EV,,Air Canada Centre
+610,2011-01-22,WSH,@,TOR,W,,Alex Ovechkin,25-127,288,Nicklas Bäckström,John Carlson,,3,19:36,EV,EN,Air Canada Centre
+611,2011-01-18,WSH,@,PHI,L,OT,Alex Ovechkin,25-123,285,Nicklas Bäckström,Jason Chimera,Sergei Bobrovsky,3,08:38,EV,,Wells Fargo Center
+612,2011-01-08,WSH,,FLA,W,,Alex Ovechkin,25-113,284,Mike Knuble,Nicklas Bäckström,Scott Clemmensen,3,16:05,EV,,Verizon Center
+613,2010-12-28,WSH,,MTL,W,,Alex Ovechkin,25-102,283,Karl Alzner,,,3,19:28,EV,EN,Verizon Center
+614,2010-12-26,WSH,@,CAR,W,,Alex Ovechkin,25-100,282,Mike Green,,Cam Ward,2,18:02,EV,,RBC Center
+615,2010-12-06,WSH,,TOR,L,SO,Alex Ovechkin,25-080,281,Tom Poti,Nicklas Bäckström,Jonas Gustavsson,2,13:50,EV,,Verizon Center
+616,2010-12-04,WSH,,ATL,L,,Alex Ovechkin,25-078,280,Alexander Semin,John Carlson,Ondřej Pavelec,2,19:11,EV,,Verizon Center
+617,2010-11-14,WSH,,ATL,W,,Alex Ovechkin,25-058,279,Nicklas Bäckström,Tyler Sloan,Chris Mason,1,01:30,EV,,Verizon Center
+618,2010-11-11,WSH,,TBL,W,,Alex Ovechkin,25-055,278,Alexander Semin,Jeff Schultz,Dan Ellis,3,15:08,EV,,Verizon Center
+619,2010-11-05,WSH,,BOS,W,,Alex Ovechkin,25-049,277,Nicklas Bäckström,Jeff Schultz,,3,19:08,EV,EN,Verizon Center
+620,2010-10-30,WSH,@,CGY,W,,Alex Ovechkin,25-043,275,Mike Green,Nicklas Bäckström,Miikka Kiprusoff,2,03:43,PP,,Scotiabank Saddledome
+621,2010-10-30,WSH,@,CGY,W,,Alex Ovechkin,25-043,276,Alexander Semin,Jason Chimera,Miikka Kiprusoff,2,03:55,PP,,Scotiabank Saddledome
+622,2010-10-28,WSH,@,MIN,L,,Alex Ovechkin,25-041,274,Mike Green,,Niklas Bäckström,3,18:24,EV,,Xcel Energy Center
+623,2010-10-13,WSH,,NYI,W,,Alex Ovechkin,25-026,273,Nicklas Bäckström,,Dwayne Roloson,2,18:19,EV,,Verizon Center
+624,2010-10-11,WSH,,OTT,W,OT,Alex Ovechkin,25-024,272,John Carlson,Jeff Schultz,Pascal Leclaire,OT,04:28,EV,,Verizon Center
+625,2010-10-09,WSH,,NJD,W,,Alex Ovechkin,25-022,270,Mike Knuble,John Carlson,Martin Brodeur,2,14:31,EV,,Verizon Center
+626,2010-10-09,WSH,,NJD,W,,Alex Ovechkin,25-022,271,,,Martin Brodeur,2,19:12,EV,PS,Verizon Center
+627,2010-04-09,WSH,,ATL,W,,Alex Ovechkin,24-204,268,Alexander Semin,,Ondřej Pavelec,2,16:04,EV,,Verizon Center
+628,2010-04-09,WSH,,ATL,W,,Alex Ovechkin,24-204,269,Alexander Semin,Nicklas Bäckström,Ondřej Pavelec,3,09:49,EV,,Verizon Center
+629,2010-04-06,WSH,@,PIT,W,,Alex Ovechkin,24-201,267,Nicklas Bäckström,,,3,19:59,EV,EN,Mellon Arena
+630,2010-04-06,WSH,@,PIT,W,,Alex Ovechkin,24-201,266,Nicklas Bäckström,,Brent Johnson,3,02:37,PP,,Mellon Arena
+631,2010-03-28,WSH,,CGY,L,,Alex Ovechkin,24-192,265,Mike Knuble,Nicklas Bäckström,Miikka Kiprusoff,2,03:49,PP,,Verizon Center
+632,2010-03-20,WSH,@,TBL,W,,Alex Ovechkin,24-184,264,Nicklas Bäckström,,Antero Niittymäki,1,10:47,EV,,St. Pete Times Forum
+633,2010-03-08,WSH,,DAL,L,SO,Alex Ovechkin,24-172,263,Nicklas Bäckström,Mike Green,Marty Turco,3,16:44,EV,,Verizon Center
+634,2010-03-08,WSH,,DAL,L,SO,Alex Ovechkin,24-172,262,Alexander Semin,Nicklas Bäckström,Marty Turco,2,14:37,PP,,Verizon Center
+635,2010-02-07,WSH,,PIT,W,OT,Alex Ovechkin,24-143,259,Jeff Schultz,,Marc-André Fleury,2,09:01,EV,,Verizon Center
+636,2010-02-07,WSH,,PIT,W,OT,Alex Ovechkin,24-143,260,Tom Poti,Nicklas Bäckström,Marc-André Fleury,3,06:51,EV,,Verizon Center
+637,2010-02-07,WSH,,PIT,W,OT,Alex Ovechkin,24-143,261,Mike Knuble,Nicklas Bäckström,Marc-André Fleury,3,11:06,EV,,Verizon Center
+638,2010-02-05,WSH,,ATL,W,,Alex Ovechkin,24-141,258,Nicklas Bäckström,Alexander Semin,Ondřej Pavelec,1,13:41,PP,,Verizon Center
+639,2010-02-04,WSH,@,NYR,W,,Alex Ovechkin,24-140,257,Nicklas Bäckström,,Henrik Lundqvist,2,19:51,EV,,Madison Square Garden (IV)
+640,2010-02-04,WSH,@,NYR,W,,Alex Ovechkin,24-140,256,Nicklas Bäckström,,Henrik Lundqvist,2,07:16,PP,,Madison Square Garden (IV)
+641,2010-02-02,WSH,@,BOS,W,,Alex Ovechkin,24-138,255,,,,3,19:28,EV,EN,TD Garden
+642,2010-01-31,WSH,,TBL,W,,Alex Ovechkin,24-136,254,Nicklas Bäckström,Tom Poti,Mike Smith,3,13:34,EV,,Verizon Center
+643,2010-01-27,WSH,,ANA,W,,Alex Ovechkin,24-132,253,Mike Knuble,Mike Green,Jean-Sébastien Giguère,1,00:36,EV,,Verizon Center
+644,2010-01-23,WSH,,PHX,W,,Alex Ovechkin,24-128,252,Alexander Semin,,,3,19:54,EV,EN,Verizon Center
+645,2010-01-21,WSH,@,PIT,W,,Alex Ovechkin,24-126,251,David Steckel,,,3,19:34,EV,EN,Mellon Arena
+646,2010-01-21,WSH,@,PIT,W,,Alex Ovechkin,24-126,250,Brendan Morrison,Mike Knuble,Brent Johnson,2,16:25,PP,,Mellon Arena
+647,2010-01-17,WSH,,PHI,W,,Alex Ovechkin,24-122,249,,,Ray Emery,3,15:48,EV,PS,Verizon Center
+648,2010-01-15,WSH,,TOR,W,,Alex Ovechkin,24-120,248,Nicklas Bäckström,,Vesa Toskala,1,00:49,EV,,Verizon Center
+649,2010-01-13,WSH,@,FLA,W,SO,Alex Ovechkin,24-118,247,,,Tomáš Vokoun,3,00:27,EV,,BankAtlantic Center
+650,2010-01-07,WSH,,OTT,W,,Alex Ovechkin,24-112,246,Matt Bradley,Shaone Morrisonn,Pascal Leclaire,3,18:34,EV,,Verizon Center
+651,2009-12-30,WSH,@,SJS,L,,Alex Ovechkin,24-104,245,Nicklas Bäckström,,Evgeni Nabokov,3,12:40,EV,,HP Pavilion at San Jose
+652,2009-12-26,WSH,,NJD,W,,Alex Ovechkin,24-100,244,Nicklas Bäckström,,Martin Brodeur,1,04:09,EV,,Verizon Center
+653,2009-12-23,WSH,,BUF,W,,Alex Ovechkin,24-097,243,Brooks Laich,Mike Green,Ryan Miller,3,12:10,PP,,Verizon Center
+654,2009-12-19,WSH,@,EDM,W,,Alex Ovechkin,24-093,241,Mike Green,Jeff Schultz,Jeff Deslauriers,3,00:32,EV,,Rexall Place
+655,2009-12-19,WSH,@,EDM,W,,Alex Ovechkin,24-093,242,Karl Alzner,,Jeff Deslauriers,3,06:37,EV,,Rexall Place
+656,2009-12-12,WSH,@,TOR,L,,Alex Ovechkin,24-086,240,Mike Green,Tomáš Fleischmann,Vesa Toskala,1,02:00,PP,,Air Canada Centre
+657,2009-12-07,WSH,@,TBL,W,,Alex Ovechkin,24-081,238,Alexander Semin,,Mike Smith,2,07:39,EV,,St. Pete Times Forum
+658,2009-12-07,WSH,@,TBL,W,,Alex Ovechkin,24-081,239,Tomáš Fleischmann,Alexander Semin,Mike Smith,2,19:35,PP,,St. Pete Times Forum
+659,2009-11-28,WSH,@,MTL,W,SO,Alex Ovechkin,24-072,237,Nicklas Bäckström,Alexandre Giroux,Carey Price,1,09:59,EV,,Bell Centre
+660,2009-11-25,WSH,,BUF,W,,Alex Ovechkin,24-069,236,Jeff Schultz,,Ryan Miller,1,06:24,EV,,Verizon Center
+661,2009-11-21,WSH,@,TOR,L,SO,Alex Ovechkin,24-065,235,Mike Green,Brooks Laich,Vesa Toskala,1,17:11,EV,,Air Canada Centre
+662,2009-11-17,WSH,@,NYR,W,,Alex Ovechkin,24-061,234,Mike Green,Tomáš Fleischmann,Henrik Lundqvist,1,15:06,PP,,Madison Square Garden (IV)
+663,2009-10-30,WSH,,NYI,L,OT,Alex Ovechkin,24-043,233,Mike Green,Keith Aucoin,Dwayne Roloson,1,04:41,PP,,Verizon Center
+664,2009-10-29,WSH,@,ATL,W,,Alex Ovechkin,24-042,232,Nicklas Bäckström,,Ondřej Pavelec,1,14:56,EV,,Philips Arena
+665,2009-10-29,WSH,@,ATL,W,,Alex Ovechkin,24-042,231,Mike Green,Brooks Laich,Ondřej Pavelec,1,10:03,PP,,Philips Arena
+666,2009-10-27,WSH,,PHI,W,,Alex Ovechkin,24-040,229,Nicklas Bäckström,Jeff Schultz,Ray Emery,2,16:08,EV,,Verizon Center
+667,2009-10-27,WSH,,PHI,W,,Alex Ovechkin,24-040,230,Nicklas Bäckström,Alexander Semin,,3,19:14,EV,EN,Verizon Center
+668,2009-10-17,WSH,,NSH,W,SO,Alex Ovechkin,24-030,228,Brendan Morrison,Mike Knuble,Dan Ellis,1,18:15,EV,,Verizon Center
+669,2009-10-17,WSH,,NSH,W,SO,Alex Ovechkin,24-030,227,Mike Green,Mike Knuble,Dan Ellis,1,05:27,PP,,Verizon Center
+670,2009-10-15,WSH,,SJS,W,,Alex Ovechkin,24-028,225,Mike Knuble,Brendan Morrison,Evgeni Nabokov,2,02:55,EV,,Verizon Center
+671,2009-10-15,WSH,,SJS,W,,Alex Ovechkin,24-028,226,Mike Knuble,Brendan Morrison,Evgeni Nabokov,2,03:23,EV,,Verizon Center
+672,2009-10-06,WSH,@,PHI,L,OT,Alex Ovechkin,24-019,223,Matt Bradley,Nicklas Bäckström,Ray Emery,2,02:44,EV,,Wachovia Center
+673,2009-10-06,WSH,@,PHI,L,OT,Alex Ovechkin,24-019,224,Nicklas Bäckström,,Ray Emery,2,07:33,EV,,Wachovia Center
+674,2009-10-03,WSH,,TOR,W,,Alex Ovechkin,24-016,222,Nicklas Bäckström,Alexander Semin,Vesa Toskala,1,01:17,EV,,Verizon Center
+675,2009-10-01,WSH,@,BOS,W,,Alex Ovechkin,24-014,220,Alexander Semin,Nicklas Bäckström,Tim Thomas,2,09:31,EV,,TD Garden
+676,2009-10-01,WSH,@,BOS,W,,Alex Ovechkin,24-014,221,Tom Poti,Brooks Laich,Tim Thomas,3,01:57,EV,,TD Garden
+677,2009-04-11,WSH,@,FLA,L,,Alex Ovechkin,23-206,219,Viktor Kozlov,Nicklas Bäckström,Tomáš Vokoun,3,13:09,EV,,BankAtlantic Center
+678,2009-04-03,WSH,,BUF,L,OT,Alex Ovechkin,23-198,218,Brooks Laich,Viktor Kozlov,Ryan Miller,1,05:35,PP,,Verizon Center
+679,2009-04-01,WSH,,NYI,W,,Alex Ovechkin,23-196,217,Sergei Fedorov,Mike Green,Joey MacDonald,2,05:37,EV,,Verizon Center
+680,2009-03-27,WSH,,TBL,W,,Alex Ovechkin,23-191,216,Brooks Laich,,,3,19:53,EV,EN,Verizon Center
+681,2009-03-27,WSH,,TBL,W,,Alex Ovechkin,23-191,215,Nicklas Bäckström,Brooks Laich,Mike McKenna,1,06:49,PP,,Verizon Center
+682,2009-03-24,WSH,@,TOR,L,SO,Alex Ovechkin,23-188,214,Nicklas Bäckström,Mike Green,Martin Gerber,2,19:39,PP,,Air Canada Centre
+683,2009-03-19,WSH,@,TBL,W,,Alex Ovechkin,23-183,213,Nicklas Bäckström,,Mike McKenna,1,07:43,EV,,St. Pete Times Forum
+684,2009-03-14,WSH,,CAR,W,SO,Alex Ovechkin,23-178,212,Mike Green,Alexander Semin,Cam Ward,1,18:01,PP,,Verizon Center
+685,2009-03-12,WSH,@,PHI,W,,Alex Ovechkin,23-176,211,Alexander Semin,,Martin Biron,2,17:19,EV,,Wachovia Center
+686,2009-03-08,WSH,,PIT,L,SO,Alex Ovechkin,23-172,210,Mike Green,Brooks Laich,Marc-André Fleury,3,00:29,PP,,Verizon Center
+687,2009-03-01,WSH,,FLA,L,,Alex Ovechkin,23-165,209,Nicklas Bäckström,Milan Jurčina,Craig Anderson,3,19:38,EV,,Verizon Center
+688,2009-02-28,WSH,@,BOS,W,OT,Alex Ovechkin,23-164,208,Matt Bradley,Milan Jurčina,Tim Thomas,2,08:48,EV,,TD Banknorth Garden
+689,2009-02-24,WSH,,PHI,L,,Alex Ovechkin,23-160,207,,,Antero Niittymäki,2,04:19,EV,,Verizon Center
+690,2009-02-22,WSH,,PIT,W,,Alex Ovechkin,23-158,206,Nicklas Bäckström,Sergei Fedorov,Marc-André Fleury,1,06:53,PP,,Verizon Center
+691,2009-02-18,WSH,,MTL,W,SO,Alex Ovechkin,23-154,205,,,Carey Price,1,10:07,EV,,Verizon Center
+692,2009-02-15,WSH,@,FLA,W,,Alex Ovechkin,23-151,203,Nicklas Bäckström,,Tomáš Vokoun,3,17:29,EV,,BankAtlantic Center
+693,2009-02-15,WSH,@,FLA,W,,Alex Ovechkin,23-151,204,Jeff Schultz,,,3,19:41,EV,EN,BankAtlantic Center
+694,2009-02-15,WSH,@,FLA,W,,Alex Ovechkin,23-151,202,Alexander Semin,Nicklas Bäckström,Tomáš Vokoun,1,15:38,PP,,BankAtlantic Center
+695,2009-02-14,WSH,@,TBL,W,,Alex Ovechkin,23-150,201,Alexander Semin,Nicklas Bäckström,Mike McKenna,1,13:21,EV,,St. Pete Times Forum
+696,2009-02-05,WSH,,LAK,L,,Alex Ovechkin,23-141,200,,,Jonathan Quick,3,10:32,EV,,Verizon Center
+697,2009-02-01,WSH,,OTT,W,,Alex Ovechkin,23-137,198,Sergei Fedorov,Viktor Kozlov,Brian Elliott,2,02:15,EV,,Verizon Center
+698,2009-02-01,WSH,,OTT,W,,Alex Ovechkin,23-137,199,Sergei Fedorov,,Alex Auld,2,15:31,EV,,Verizon Center
+699,2009-02-01,WSH,,OTT,W,,Alex Ovechkin,23-137,197,Mike Green,Sergei Fedorov,Brian Elliott,1,10:32,PP,,Verizon Center
+700,2009-01-31,WSH,,DET,W,,Alex Ovechkin,23-136,195,Viktor Kozlov,Shaone Morrisonn,Ty Conklin,3,12:52,EV,,Verizon Center
+701,2009-01-31,WSH,,DET,W,,Alex Ovechkin,23-136,196,Nicklas Bäckström,Mike Green,Ty Conklin,3,14:08,PP,,Verizon Center
+702,2009-01-19,WSH,@,NYI,W,OT,Alex Ovechkin,23-124,193,Mike Green,Brooks Laich,Yann Danis,1,06:35,PP,,Nassau Veterans Memorial Coliseum
+703,2009-01-19,WSH,@,NYI,W,OT,Alex Ovechkin,23-124,194,Alexander Semin,Sergei Fedorov,Yann Danis,OT,01:46,PP,,Nassau Veterans Memorial Coliseum
+704,2009-01-14,WSH,@,PIT,W,,Alex Ovechkin,23-119,192,Mike Green,,Marc-André Fleury,3,11:27,EV,,Mellon Arena
+705,2009-01-14,WSH,@,PIT,W,,Alex Ovechkin,23-119,191,Brooks Laich,Nicklas Bäckström,Marc-André Fleury,3,01:48,PP,,Mellon Arena
+706,2009-01-03,WSH,,NYR,W,,Alex Ovechkin,23-108,190,David Steckel,,Steve Valiquette,2,19:28,SH,,Verizon Center
+707,2009-01-01,WSH,,TBL,W,,Alex Ovechkin,23-106,189,Nicklas Bäckström,,Mike Smith,3,18:14,EV,,Verizon Center
+708,2008-12-28,WSH,,TOR,W,,Alex Ovechkin,23-102,187,Milan Jurčina,,Vesa Toskala,2,19:50,EV,,Verizon Center
+709,2008-12-28,WSH,,TOR,W,,Alex Ovechkin,23-102,188,Nicklas Bäckström,Mike Green,,3,19:26,EV,EN,Verizon Center
+710,2008-12-26,WSH,,BUF,W,,Alex Ovechkin,23-100,186,Bryan Helmer,,Patrick Lalime,3,08:27,EV,,Verizon Center
+711,2008-12-23,WSH,@,NYR,W,OT,Alex Ovechkin,23-097,184,Nicklas Bäckström,,Henrik Lundqvist,2,12:35,EV,,Madison Square Garden (IV)
+712,2008-12-23,WSH,@,NYR,W,OT,Alex Ovechkin,23-097,185,,,Henrik Lundqvist,3,12:38,EV,,Madison Square Garden (IV)
+713,2008-12-18,WSH,,STL,W,,Alex Ovechkin,23-092,183,Viktor Kozlov,Alexander Semin,Ben Bishop,3,00:13,PP,,Verizon Center
+714,2008-12-16,WSH,@,NYI,W,OT,Alex Ovechkin,23-090,181,Alexander Semin,Nicklas Bäckström,Joey MacDonald,2,16:35,EV,,Nassau Veterans Memorial Coliseum
+715,2008-12-16,WSH,@,NYI,W,OT,Alex Ovechkin,23-090,182,Nicklas Bäckström,,Joey MacDonald,OT,04:49,EV,,Nassau Veterans Memorial Coliseum
+716,2008-12-12,WSH,,OTT,W,,Alex Ovechkin,23-086,179,Tom Poti,Mike Green,Alex Auld,2,19:25,PP,,Verizon Center
+717,2008-12-12,WSH,,OTT,W,,Alex Ovechkin,23-086,180,Nicklas Bäckström,Sergei Fedorov,Alex Auld,3,14:05,PP,,Verizon Center
+718,2008-12-10,WSH,,BOS,W,,Alex Ovechkin,23-084,178,Alexander Semin,Nicklas Bäckström,,3,19:08,EV,EN,Verizon Center
+719,2008-12-04,WSH,,NYI,W,,Alex Ovechkin,23-078,177,Milan Jurčina,Brooks Laich,Joey MacDonald,1,11:31,PP,,Verizon Center
+720,2008-11-28,WSH,,MTL,W,,Alex Ovechkin,23-072,176,Nicklas Bäckström,,Jaroslav Halák,3,03:42,EV,,Verizon Center
+721,2008-11-26,WSH,,ATL,W,,Alex Ovechkin,23-070,175,Tom Poti,Tyler Sloan,Ondřej Pavelec,2,00:54,EV,,Verizon Center
+722,2008-11-26,WSH,,ATL,W,,Alex Ovechkin,23-070,173,Sami Lepistö,Viktor Kozlov,Ondřej Pavelec,1,03:29,PP,,Verizon Center
+723,2008-11-26,WSH,,ATL,W,,Alex Ovechkin,23-070,174,Viktor Kozlov,Tomáš Fleischmann,Ondřej Pavelec,1,14:01,PP,,Verizon Center
+724,2008-11-24,WSH,@,MIN,L,,Alex Ovechkin,23-068,172,Tomáš Fleischmann,Milan Jurčina,Niklas Bäckström,3,16:07,EV,,Xcel Energy Center
+725,2008-11-19,WSH,@,ANA,W,,Alex Ovechkin,23-063,171,Chris Clark,Michael Nylander,Jean-Sébastien Giguère,2,02:43,PP,,Honda Center
+726,2008-11-15,WSH,@,NJD,L,SO,Alex Ovechkin,23-059,169,Tyler Sloan,Nicklas Bäckström,Scott Clemmensen,1,19:09,EV,,Prudential Center
+727,2008-11-15,WSH,@,NJD,L,SO,Alex Ovechkin,23-059,170,Nicklas Bäckström,Boyd Gordon,Scott Clemmensen,3,19:59,EV,,Prudential Center
+728,2008-11-14,WSH,,NJD,W,,Alex Ovechkin,23-058,168,Nicklas Bäckström,Brooks Laich,,3,19:39,EV,EN,Verizon Center
+729,2008-11-12,WSH,@,CAR,W,,Alex Ovechkin,23-056,167,Alexander Semin,,Michael Leighton,1,05:11,EV,,RBC Center
+730,2008-11-10,WSH,,TBL,W,,Alex Ovechkin,23-054,166,Alexander Semin,Jeff Schultz,Olaf Kölzig,3,15:54,EV,,Verizon Center
+731,2008-10-11,WSH,,CHI,W,,Alex Ovechkin,23-024,164,Tom Poti,,Nikolai Khabibulin,2,05:07,EV,,Verizon Center
+732,2008-10-11,WSH,,CHI,W,,Alex Ovechkin,23-024,165,Jeff Schultz,José Théodore,Nikolai Khabibulin,3,18:24,EV,,Verizon Center
+733,2008-04-03,WSH,,TBL,W,,Alex Ovechkin,22-199,162,Viktor Kozlov,Mike Green,Karri Rämö,1,12:01,EV,,Verizon Center
+734,2008-04-03,WSH,,TBL,W,,Alex Ovechkin,22-199,163,Mike Green,Nicklas Bäckström,Karri Rämö,3,07:50,PP,,Verizon Center
+735,2008-04-01,WSH,,CAR,W,,Alex Ovechkin,22-197,161,Nicklas Bäckström,Jeff Schultz,Cam Ward,3,16:24,EV,,Verizon Center
+736,2008-03-29,WSH,@,FLA,W,,Alex Ovechkin,22-194,160,Viktor Kozlov,Tom Poti,Tomáš Vokoun,3,11:32,EV,,BankAtlantic Center
+737,2008-03-25,WSH,@,CAR,W,SO,Alex Ovechkin,22-190,159,Nicklas Bäckström,Viktor Kozlov,Cam Ward,2,09:41,EV,,RBC Center
+738,2008-03-21,WSH,@,ATL,W,,Alex Ovechkin,22-186,157,Nicklas Bäckström,Viktor Kozlov,Kari Lehtonen,1,15:18,EV,,Philips Arena
+739,2008-03-21,WSH,@,ATL,W,,Alex Ovechkin,22-186,158,Mike Green,Tom Poti,Kari Lehtonen,3,11:30,EV,,Philips Arena
+740,2008-03-18,WSH,@,NSH,W,,Alex Ovechkin,22-183,156,,,,3,19:56,EV,EN,Sommet Center
+741,2008-03-14,WSH,,ATL,W,,Alex Ovechkin,22-179,155,Mike Green,Sergei Fedorov,Kari Lehtonen,3,01:07,PP,,Verizon Center
+742,2008-03-12,WSH,,CGY,W,,Alex Ovechkin,22-177,153,Alexander Semin,Mike Green,Miikka Kiprusoff,2,17:55,PP,,Verizon Center
+743,2008-03-12,WSH,,CGY,W,,Alex Ovechkin,22-177,154,Mike Green,Eric Fehr,Miikka Kiprusoff,3,18:06,PP,,Verizon Center
+744,2008-03-05,WSH,@,BUF,W,,Alex Ovechkin,22-170,151,Nicklas Bäckström,Olaf Kölzig,Ryan Miller,1,15:21,EV,,HSBC Arena
+745,2008-03-05,WSH,@,BUF,W,,Alex Ovechkin,22-170,152,Viktor Kozlov,Milan Jurčina,Ryan Miller,3,13:19,EV,,HSBC Arena
+746,2008-03-03,WSH,,BOS,W,,Alex Ovechkin,22-168,148,Nicklas Bäckström,Shaone Morrisonn,Tim Thomas,1,06:18,EV,,Verizon Center
+747,2008-03-03,WSH,,BOS,W,,Alex Ovechkin,22-168,149,Nicklas Bäckström,Tom Poti,Tim Thomas,1,07:08,EV,,Verizon Center
+748,2008-03-03,WSH,,BOS,W,,Alex Ovechkin,22-168,150,Alexander Semin,Nicklas Bäckström,Alex Auld,1,15:31,PP,,Verizon Center
+749,2008-03-01,WSH,,TOR,L,,Alex Ovechkin,22-166,147,Tom Poti,,Vesa Toskala,1,15:47,EV,,Verizon Center
+750,2008-02-13,WSH,@,ATL,L,SO,Alex Ovechkin,22-149,146,Nicklas Bäckström,Mike Green,Kari Lehtonen,3,18:39,EV,,Philips Arena
+751,2008-02-10,WSH,,NYR,W,OT,Alex Ovechkin,22-146,145,Eric Fehr,Nicklas Bäckström,Steve Valiquette,1,02:28,PP,,Verizon Center
+752,2008-02-06,WSH,@,PHI,W,,Alex Ovechkin,22-142,144,Nicklas Bäckström,Milan Jurčina,Martin Biron,3,07:45,EV,,Wachovia Center
+753,2008-02-05,WSH,@,CBJ,W,OT,Alex Ovechkin,22-141,142,Nicklas Bäckström,,Pascal Leclaire,2,13:34,EV,,Nationwide Arena
+754,2008-02-05,WSH,@,CBJ,W,OT,Alex Ovechkin,22-141,143,Tom Poti,Shaone Morrisonn,Fredrik Norrena,OT,02:28,EV,,Nationwide Arena
+755,2008-01-31,WSH,,MTL,W,OT,Alex Ovechkin,22-136,138,Milan Jurčina,,Cristobal Huet,1,13:06,EV,,Verizon Center
+756,2008-01-31,WSH,,MTL,W,OT,Alex Ovechkin,22-136,139,Viktor Kozlov,Nicklas Bäckström,Cristobal Huet,2,11:54,EV,,Verizon Center
+757,2008-01-31,WSH,,MTL,W,OT,Alex Ovechkin,22-136,140,Viktor Kozlov,Mike Green,Cristobal Huet,3,12:30,EV,,Verizon Center
+758,2008-01-31,WSH,,MTL,W,OT,Alex Ovechkin,22-136,141,Jeff Schultz,Mike Green,Cristobal Huet,OT,03:34,EV,,Verizon Center
+759,2008-01-23,WSH,@,TOR,L,,Alex Ovechkin,22-128,137,Viktor Kozlov,Steve Eminger,Vesa Toskala,2,02:27,EV,,Air Canada Centre
+760,2008-01-21,WSH,@,PIT,W,SO,Alex Ovechkin,22-126,136,Nicklas Bäckström,Milan Jurčina,Dany Sabourin,2,07:58,EV,,Mellon Arena
+761,2008-01-21,WSH,@,PIT,W,SO,Alex Ovechkin,22-126,135,Tomáš Fleischmann,Nicklas Bäckström,Dany Sabourin,2,01:48,PP,,Mellon Arena
+762,2008-01-19,WSH,,FLA,W,,Alex Ovechkin,22-124,134,Mike Green,Nicklas Bäckström,Tomáš Vokoun,3,04:40,PP,,Verizon Center
+763,2008-01-17,WSH,,EDM,W,SO,Alex Ovechkin,22-122,133,Boyd Gordon,Jeff Schultz,Dwayne Roloson,2,01:39,EV,,Verizon Center
+764,2008-01-15,WSH,,OTT,W,,Alex Ovechkin,22-120,132,Brooks Laich,Tomáš Fleischmann,Ray Emery,3,09:11,PP,,Verizon Center
+765,2008-01-13,WSH,,PHI,L,,Alex Ovechkin,22-118,131,Viktor Kozlov,Mike Green,Martin Biron,2,11:10,EV,,Verizon Center
+766,2008-01-05,WSH,@,MTL,W,OT,Alex Ovechkin,22-110,130,John Erskine,,Carey Price,3,06:38,EV,,Bell Centre
+767,2008-01-05,WSH,@,MTL,W,OT,Alex Ovechkin,22-110,129,Michael Nylander,,Carey Price,2,08:31,PP,,Bell Centre
+768,2007-12-29,WSH,@,OTT,W,,Alex Ovechkin,22-103,126,Tom Poti,Nicklas Bäckström,Martin Gerber,2,03:13,EV,,Scotiabank Place
+769,2007-12-29,WSH,@,OTT,W,,Alex Ovechkin,22-103,127,Jeff Schultz,,Martin Gerber,3,13:46,EV,,Scotiabank Place
+770,2007-12-29,WSH,@,OTT,W,,Alex Ovechkin,22-103,128,,,,3,19:32,EV,EN,Scotiabank Place
+771,2007-12-29,WSH,@,OTT,W,,Alex Ovechkin,22-103,125,Mike Green,Alexander Semin,Martin Gerber,1,04:45,PP,,Scotiabank Place
+772,2007-12-27,WSH,@,PIT,L,OT,Alex Ovechkin,22-101,124,Nicklas Bäckström,,Ty Conklin,2,18:26,EV,,Mellon Arena
+773,2007-12-22,WSH,@,NYI,L,OT,Alex Ovechkin,22-096,123,Viktor Kozlov,Michael Nylander,Rick DiPietro,3,19:05,EV,,Nassau Veterans Memorial Coliseum
+774,2007-12-17,WSH,@,DET,L,SO,Alex Ovechkin,22-091,122,Michael Nylander,,Dominik Hašek,1,09:58,PP,,Joe Louis Arena
+775,2007-12-14,WSH,,BUF,L,,Alex Ovechkin,22-088,121,Nicklas Bäckström,Michael Nylander,Ryan Miller,1,13:12,PP,,Verizon Center
+776,2007-12-12,WSH,,NYR,W,OT,Alex Ovechkin,22-086,120,Mike Green,,Henrik Lundqvist,3,04:36,EV,,Verizon Center
+777,2007-12-08,WSH,,ATL,W,,Alex Ovechkin,22-082,119,Tom Poti,Nicklas Bäckström,Kari Lehtonen,2,14:06,EV,,Verizon Center
+778,2007-12-01,WSH,@,FLA,W,,Alex Ovechkin,22-075,118,Michael Nylander,Jeff Schultz,Tomáš Vokoun,3,04:38,EV,,BankAtlantic Center
+779,2007-11-30,WSH,@,CAR,L,,Alex Ovechkin,22-074,116,Michael Nylander,,Cam Ward,1,02:35,PP,,RBC Center
+780,2007-11-30,WSH,@,CAR,L,,Alex Ovechkin,22-074,117,Alexander Semin,,Cam Ward,3,00:32,PP,,RBC Center
+781,2007-11-26,WSH,,BUF,L,,Alex Ovechkin,22-070,115,Steve Eminger,,Ryan Miller,2,00:49,EV,,Verizon Center
+782,2007-11-24,WSH,,CAR,W,,Alex Ovechkin,22-068,114,Shaone Morrisonn,,John Grahame,3,18:10,EV,,Verizon Center
+783,2007-11-24,WSH,,CAR,W,,Alex Ovechkin,22-068,113,Michael Nylander,Nicklas Bäckström,John Grahame,1,06:17,PP,,Verizon Center
+784,2007-11-21,WSH,,ATL,L,,Alex Ovechkin,22-065,112,Brian Pothier,Viktor Kozlov,Johan Hedberg,2,02:27,PP,,Verizon Center
+785,2007-11-16,WSH,@,TBL,L,,Alex Ovechkin,22-060,111,Chris Clark,Nicklas Bäckström,Johan Holmqvist,1,13:30,EV,,St. Pete Times Forum
+786,2007-11-15,WSH,@,FLA,L,,Alex Ovechkin,22-059,110,Michael Nylander,Brian Pothier,Tomáš Vokoun,2,06:55,EV,,BankAtlantic Center
+787,2007-11-10,WSH,,TBL,L,,Alex Ovechkin,22-054,109,Mike Green,Tom Poti,Johan Holmqvist,2,18:20,EV,,Verizon Center
+788,2007-11-08,WSH,@,OTT,W,,Alex Ovechkin,22-052,108,Brooks Laich,Michael Nylander,Ray Emery,3,16:15,EV,,Scotiabank Place
+789,2007-11-02,WSH,,PHI,L,,Alex Ovechkin,22-046,107,Michael Nylander,,Antero Niittymäki,3,15:52,PP,,Verizon Center
+790,2007-10-29,WSH,@,TOR,W,,Alex Ovechkin,22-042,105,Viktor Kozlov,Boyd Gordon,Vesa Toskala,1,11:57,EV,,Air Canada Centre
+791,2007-10-29,WSH,@,TOR,W,,Alex Ovechkin,22-042,106,Brian Pothier,Michael Nylander,Andrew Raycroft,2,11:09,PP,,Air Canada Centre
+792,2007-10-26,WSH,,VAN,L,,Alex Ovechkin,22-039,104,Chris Clark,Viktor Kozlov,Roberto Luongo,3,18:24,PP,,Verizon Center
+793,2007-10-24,WSH,,TBL,W,,Alex Ovechkin,22-037,103,Brian Pothier,,,3,19:56,EV,EN,Verizon Center
+794,2007-10-18,WSH,,NYI,L,,Alex Ovechkin,22-031,102,Joe Motzko,,Rick DiPietro,3,01:41,EV,,Verizon Center
+795,2007-10-13,WSH,@,BUF,L,,Alex Ovechkin,22-026,101,Michael Nylander,Tom Poti,Ryan Miller,3,11:19,PP,,HSBC Arena
+796,2007-10-12,WSH,@,NYR,L,,Alex Ovechkin,22-025,100,Mike Green,Tom Poti,Henrik Lundqvist,1,07:46,PP,,Madison Square Garden (IV)
+797,2007-10-06,WSH,,CAR,W,,Alex Ovechkin,22-019,99,Viktor Kozlov,John Erskine,John Grahame,1,14:24,EV,,Verizon Center
+798,2007-04-04,WSH,@,ATL,W,,Alex Ovechkin,21-199,98,Boyd Gordon,,Kari Lehtonen,2,19:17,EV,,Philips Arena
+799,2007-04-04,WSH,@,ATL,W,,Alex Ovechkin,21-199,97,Bryan Muir,Brian Pothier,Kari Lehtonen,2,13:35,PP,,Philips Arena
+800,2007-04-03,WSH,,FLA,W,,Alex Ovechkin,21-198,96,Brooks Laich,Milan Jurčina,Craig Anderson,2,05:28,EV,,Verizon Center
+801,2007-03-22,WSH,@,CAR,L,,Alex Ovechkin,21-186,94,Alexander Semin,Jiří Novotný,John Grahame,1,11:16,EV,,RBC Center
+802,2007-03-22,WSH,@,CAR,L,,Alex Ovechkin,21-186,95,Alexandre Giroux,Jiří Novotný,John Grahame,2,17:54,EV,,RBC Center
+803,2007-03-12,WSH,@,ATL,L,,Alex Ovechkin,21-176,92,Jiří Novotný,,Kari Lehtonen,2,05:27,EV,,Philips Arena
+804,2007-03-12,WSH,@,ATL,L,,Alex Ovechkin,21-176,93,Ben Clymer,Alexander Semin,Kari Lehtonen,3,01:26,PP,,Philips Arena
+805,2007-03-10,WSH,@,NYI,L,,Alex Ovechkin,21-174,91,Jiří Novotný,Shaone Morrisonn,Rick DiPietro,3,04:27,EV,,Nassau Veterans Memorial Coliseum
+806,2007-03-01,WSH,,TBL,L,SO,Alex Ovechkin,21-165,90,Jiří Novotný,Steve Eminger,Johan Holmqvist,2,10:11,EV,,Verizon Center
+807,2007-02-27,WSH,,FLA,L,SO,Alex Ovechkin,21-163,88,Brian Pothier,,Ed Belfour,1,08:41,EV,,Verizon Center
+808,2007-02-27,WSH,,FLA,L,SO,Alex Ovechkin,21-163,89,Brian Sutherby,Donald Brashear,Ed Belfour,2,17:54,EV,,Verizon Center
+809,2007-02-25,WSH,,NJD,L,,Alex Ovechkin,21-161,87,Jeff Schultz,Jamie Heward,Scott Clemmensen,3,09:13,EV,,Verizon Center
+810,2007-02-10,WSH,,NYR,L,,Alex Ovechkin,21-146,86,Chris Clark,Mike Green,Henrik Lundqvist,1,18:20,PP,,Verizon Center
+811,2007-02-01,WSH,@,FLA,L,,Alex Ovechkin,21-137,85,Dainius Zubrus,Ben Clymer,Ed Belfour,3,02:32,EV,,BankAtlantic Center
+812,2007-01-30,WSH,@,OTT,L,,Alex Ovechkin,21-135,84,Steve Eminger,Jamie Heward,Martin Gerber,2,09:04,EV,,Scotiabank Place
+813,2007-01-27,WSH,,CAR,W,,Alex Ovechkin,21-132,83,,,Cam Ward,1,09:53,PP,,Verizon Center
+814,2007-01-26,WSH,@,CAR,L,,Alex Ovechkin,21-131,82,Alexander Semin,Dainius Zubrus,Cam Ward,2,00:54,PP,,RBC Center
+815,2007-01-18,WSH,@,CAR,W,,Alex Ovechkin,21-123,81,Shaone Morrisonn,,,3,19:20,EV,EN,RBC Center
+816,2007-01-09,WSH,,PHI,W,,Alex Ovechkin,21-114,79,Dainius Zubrus,,Robert Esche,1,06:36,EV,,Verizon Center
+817,2007-01-09,WSH,,PHI,W,,Alex Ovechkin,21-114,80,Chris Clark,Dainius Zubrus,Robert Esche,2,16:45,EV,,Verizon Center
+818,2007-01-06,WSH,,ATL,W,OT,Alex Ovechkin,21-111,78,Alexander Semin,Matt Pettinger,Kari Lehtonen,3,12:18,PP,,Verizon Center
+819,2006-12-26,WSH,@,BUF,L,,Alex Ovechkin,21-100,77,Lawrence Nycholat,,Ryan Miller,2,14:36,EV,,HSBC Arena
+820,2006-12-23,WSH,@,TOR,W,,Alex Ovechkin,21-097,76,Alexander Semin,Olaf Kölzig,Andrew Raycroft,2,12:01,PP,,Air Canada Centre
+821,2006-12-19,WSH,,TBL,L,,Alex Ovechkin,21-093,75,Brooks Laich,Brian Sutherby,Marc Denis,1,13:54,EV,,Verizon Center
+822,2006-12-16,WSH,,PHI,W,,Alex Ovechkin,21-090,74,Bryan Muir,,Antero Niittymäki,3,03:16,EV,,Verizon Center
+823,2006-12-15,WSH,@,ATL,W,OT,Alex Ovechkin,21-089,73,,,Kari Lehtonen,OT,00:06,EV,,Philips Arena
+824,2006-12-15,WSH,@,ATL,W,OT,Alex Ovechkin,21-089,71,Dainius Zubrus,Jamie Heward,Kari Lehtonen,1,08:55,PP,,Philips Arena
+825,2006-12-15,WSH,@,ATL,W,OT,Alex Ovechkin,21-089,72,Dainius Zubrus,Chris Clark,Kari Lehtonen,3,19:29,PP,,Philips Arena
+826,2006-12-09,WSH,@,PHI,W,,Alex Ovechkin,21-083,70,Chris Clark,Dainius Zubrus,Antero Niittymäki,1,06:28,EV,,Wachovia Center
+827,2006-12-02,WSH,,BUF,W,,Alex Ovechkin,21-076,69,,,Ryan Miller,1,07:45,EV,,Verizon Center
+828,2006-11-28,WSH,@,TBL,W,,Alex Ovechkin,21-072,68,,,,3,18:51,EV,EN,St. Pete Times Forum
+829,2006-11-25,WSH,@,NYI,L,,Alex Ovechkin,21-069,67,Dainius Zubrus,Matt Pettinger,Rick DiPietro,3,02:48,PP,,Nassau Veterans Memorial Coliseum
+830,2006-11-24,WSH,,TOR,L,,Alex Ovechkin,21-068,66,Richard Zedník,Mike Green,Andrew Raycroft,1,17:48,PP,,Verizon Center
+831,2006-11-18,WSH,@,BOS,L,OT,Alex Ovechkin,21-062,65,Matt Pettinger,Richard Zedník,Tim Thomas,3,16:59,PP,,TD Banknorth Garden
+832,2006-11-13,WSH,@,FLA,W,,Alex Ovechkin,21-057,64,Dainius Zubrus,Chris Clark,Alex Auld,2,06:45,EV,,BankAtlantic Center
+833,2006-11-11,WSH,,NYR,W,,Alex Ovechkin,21-055,63,Dainius Zubrus,John Erskine,Henrik Lundqvist,3,04:53,EV,,Verizon Center
+834,2006-11-06,WSH,,OTT,W,OT,Alex Ovechkin,21-050,61,Alexander Semin,Dainius Zubrus,Martin Gerber,2,07:56,EV,,Verizon Center
+835,2006-11-06,WSH,,OTT,W,OT,Alex Ovechkin,21-050,62,Alexander Semin,Brian Pothier,Martin Gerber,3,19:35,PP,,Verizon Center
+836,2006-11-04,WSH,@,PHI,W,,Alex Ovechkin,21-048,59,Bryan Muir,Matt Bradley,Robert Esche,1,03:53,EV,,Wachovia Center
+837,2006-11-04,WSH,@,PHI,W,,Alex Ovechkin,21-048,60,Chris Clark,Jamie Heward,Robert Esche,1,19:01,EV,,Wachovia Center
+838,2006-10-27,WSH,@,VAN,L,SO,Alex Ovechkin,21-040,58,Brian Sutherby,Matt Bradley,Roberto Luongo,2,18:22,EV,,General Motors Place
+839,2006-10-25,WSH,@,COL,W,,Alex Ovechkin,21-038,57,Alexander Semin,Brian Pothier,Peter Budaj,2,10:30,PP,,Pepsi Center
+840,2006-10-21,WSH,,TBL,L,,Alex Ovechkin,21-034,56,Richard Zedník,Alexander Semin,Marc Denis,3,16:03,PP,,Verizon Center
+841,2006-10-19,WSH,@,ATL,L,SO,Alex Ovechkin,21-032,55,Dainius Zubrus,Brian Pothier,Kari Lehtonen,2,15:48,EV,,Philips Arena
+842,2006-10-07,WSH,,CAR,W,,Alex Ovechkin,21-020,53,Chris Clark,,Cam Ward,3,08:04,EV,,Verizon Center
+843,2006-10-07,WSH,,CAR,W,,Alex Ovechkin,21-020,54,Brian Pothier,Chris Clark,Cam Ward,3,13:03,PP,,Verizon Center
+844,2006-04-17,WSH,,ATL,W,,Alex Ovechkin,20-212,52,Ben Clymer,Brian Sutherby,Mike Dunham,3,02:36,EV,,MCI Center
+845,2006-04-15,WSH,@,FLA,W,SO,Alex Ovechkin,20-210,51,Shaone Morrisonn,Rico Fata,Jamie McLennan,2,13:07,EV,,BankAtlantic Center
+846,2006-04-13,WSH,@,ATL,L,,Alex Ovechkin,20-208,50,Steve Eminger,Matt Pettinger,Mike Dunham,1,13:01,EV,,Philips Arena
+847,2006-04-10,WSH,@,BOS,W,OT,Alex Ovechkin,20-205,49,Dainius Zubrus,,Tim Thomas,OT,03:30,EV,,TD Banknorth Garden
+848,2006-03-29,WSH,@,CAR,W,,Alex Ovechkin,20-193,48,Brian Willsie,Dainius Zubrus,Cam Ward,2,09:38,PP,,RBC Center
+849,2006-03-25,WSH,@,CAR,W,,Alex Ovechkin,20-189,47,Brooks Laich,,Martin Gerber,1,01:50,EV,,RBC Center
+850,2006-03-23,WSH,@,TBL,L,OT,Alex Ovechkin,20-187,45,Shaone Morrisonn,,John Grahame,1,05:01,EV,,St. Pete Times Forum
+851,2006-03-23,WSH,@,TBL,L,OT,Alex Ovechkin,20-187,46,Chris Clark,Dainius Zubrus,John Grahame,3,10:07,EV,,St. Pete Times Forum
+852,2006-03-20,WSH,,MTL,L,,Alex Ovechkin,20-184,44,Brian Willsie,Ben Clymer,Cristobal Huet,3,19:49,PP,,MCI Center
+853,2006-03-14,WSH,,BUF,L,,Alex Ovechkin,20-178,43,Dainius Zubrus,Ben Clymer,Ryan Miller,1,19:11,PP,,MCI Center
+854,2006-03-08,WSH,,PIT,W,,Alex Ovechkin,20-172,42,Bryan Muir,Ben Clymer,Sébastien Caron,3,05:54,PP,,MCI Center
+855,2006-03-06,WSH,,NYI,W,,Alex Ovechkin,20-170,40,Dainius Zubrus,Ivan Majeský,Garth Snow,2,02:27,EV,,MCI Center
+856,2006-03-06,WSH,,NYI,W,,Alex Ovechkin,20-170,41,Mike Green,Jeff Halpern,Garth Snow,2,19:59,EV,,MCI Center
+857,2006-03-04,WSH,@,ATL,L,OT,Alex Ovechkin,20-168,39,Mike Green,Chris Clark,Kari Lehtonen,3,19:34,PP,,Philips Arena
+858,2006-03-02,WSH,@,OTT,L,,Alex Ovechkin,20-166,38,Dainius Zubrus,,Ray Emery,3,14:53,SH,,Corel Centre
+859,2006-02-28,WSH,@,TOR,W,,Alex Ovechkin,20-164,37,,,Ed Belfour,2,00:19,PP,,Air Canada Centre
+860,2006-02-11,WSH,,PIT,L,,Alex Ovechkin,20-147,36,Dainius Zubrus,,Marc-André Fleury,3,10:07,SH,,MCI Center
+861,2006-02-10,WSH,@,PHI,L,,Alex Ovechkin,20-146,35,Dainius Zubrus,,Robert Esche,2,15:01,PP,,Wachovia Center
+862,2006-01-25,WSH,@,PIT,L,,Alex Ovechkin,20-130,34,Brian Willsie,Dainius Zubrus,Marc-André Fleury,2,05:22,PP,,Mellon Arena
+863,2006-01-19,WSH,,STL,W,SO,Alex Ovechkin,20-124,33,Chris Clark,Nolan Yonkman,Curtis Sanford,1,09:52,EV,,MCI Center
+864,2006-01-16,WSH,@,PHX,W,,Alex Ovechkin,20-121,32,Brendan Witt,,Brian Boucher,3,11:54,EV,,Glendale Arena
+865,2006-01-16,WSH,@,PHX,W,,Alex Ovechkin,20-121,31,,,Brian Boucher,1,14:13,PP,,Glendale Arena
+866,2006-01-13,WSH,@,MDA,W,OT,Alex Ovechkin,20-118,28,Chris Clark,Shaone Morrisonn,Jean-Sébastien Giguère,2,01:45,EV,,Arrowhead Pond of Anaheim
+867,2006-01-13,WSH,@,MDA,W,OT,Alex Ovechkin,20-118,29,Chris Clark,Dainius Zubrus,Jean-Sébastien Giguère,2,12:06,EV,,Arrowhead Pond of Anaheim
+868,2006-01-13,WSH,@,MDA,W,OT,Alex Ovechkin,20-118,30,Dainius Zubrus,,Jean-Sébastien Giguère,OT,03:04,EV,,Arrowhead Pond of Anaheim
+869,2006-01-12,WSH,@,DAL,L,,Alex Ovechkin,20-117,27,Brian Sutherby,Olaf Kölzig,Marty Turco,2,03:06,EV,,American Airlines Center
+870,2006-01-10,WSH,,CHI,L,OT,Alex Ovechkin,20-115,26,,,Adam Munro,2,13:11,EV,,MCI Center
+871,2006-01-06,WSH,,PHI,L,,Alex Ovechkin,20-111,25,Bryan Muir,Dainius Zubrus,Antero Niittymäki,1,08:55,PP,,MCI Center
+872,2006-01-01,WSH,,ATL,L,,Alex Ovechkin,20-106,24,Brooks Laich,,Kari Lehtonen,3,15:15,EV,,MCI Center
+873,2005-12-31,WSH,,PHI,W,SO,Alex Ovechkin,20-105,23,Jamie Heward,,Antero Niittymäki,2,07:38,PP,,MCI Center
+874,2005-12-28,WSH,@,NJD,L,,Alex Ovechkin,20-102,22,Mathieu Biron,Matt Pettinger,Martin Brodeur,1,09:44,PP,,Continental Airlines Arena
+875,2005-12-27,WSH,,BOS,L,OT,Alex Ovechkin,20-101,21,,,Hannu Toivonen,3,11:47,EV,,MCI Center
+876,2005-12-23,WSH,,MTL,W,,Alex Ovechkin,20-097,20,Jeff Halpern,,Cristobal Huet,3,13:45,EV,,MCI Center
+877,2005-12-22,WSH,@,ATL,W,SO,Alex Ovechkin,20-096,19,Jamie Heward,Mathieu Biron,Michael Garnett,2,05:04,PP,,Philips Arena
+878,2005-12-09,WSH,,DET,L,,Alex Ovechkin,20-083,18,Bryan Muir,Jamie Heward,Chris Osgood,1,05:23,PP,,MCI Center
+879,2005-12-07,WSH,,NSH,L,,Alex Ovechkin,20-081,17,Andrew Cassels,Jamie Heward,Chris Mason,2,02:30,PP,,MCI Center
+880,2005-12-03,WSH,,NYR,W,,Alex Ovechkin,20-077,16,,,Henrik Lundqvist,1,12:11,EV,,MCI Center
+881,2005-11-17,WSH,@,BUF,L,,Alex Ovechkin,20-061,15,Andrew Cassels,Brian Willsie,Martin Biron,2,19:05,PP,,HSBC Arena
+882,2005-11-15,WSH,,TBL,W,SO,Alex Ovechkin,20-059,14,Jeff Halpern,Andrew Cassels,Sean Burke,3,18:45,EV,,MCI Center
+883,2005-11-11,WSH,,NJD,L,,Alex Ovechkin,20-055,13,Brian Willsie,Steve Eminger,Martin Brodeur,3,10:35,EV,,MCI Center
+884,2005-11-08,WSH,@,TOR,L,,Alex Ovechkin,20-052,11,Dainius Zubrus,,Ed Belfour,1,15:18,EV,,Air Canada Centre
+885,2005-11-08,WSH,@,TOR,L,,Alex Ovechkin,20-052,12,Bryan Muir,Brian Willsie,Ed Belfour,3,09:16,PP,,Air Canada Centre
+886,2005-11-06,WSH,,TOR,W,,Alex Ovechkin,20-050,9,Jeff Halpern,Steve Eminger,Mikael Tellqvist,2,15:01,PP,,MCI Center
+887,2005-11-06,WSH,,TOR,W,,Alex Ovechkin,20-050,10,Bryan Muir,Jeff Halpern,Mikael Tellqvist,3,06:07,PP,,MCI Center
+888,2005-10-28,WSH,@,TBL,L,,Alex Ovechkin,20-041,7,Shaone Morrisonn,Olaf Kölzig,Sean Burke,1,03:25,EV,,St. Pete Times Forum
+889,2005-10-28,WSH,@,TBL,L,,Alex Ovechkin,20-041,8,Jamie Heward,,Sean Burke,1,13:12,SH,,St. Pete Times Forum
+890,2005-10-20,WSH,@,FLA,L,,Alex Ovechkin,20-033,5,Brian Willsie,,Roberto Luongo,1,01:50,EV,,BankAtlantic Center
+891,2005-10-20,WSH,@,FLA,L,,Alex Ovechkin,20-033,6,Steve Eminger,Olaf Kölzig,Roberto Luongo,3,17:22,EV,,BankAtlantic Center
+892,2005-10-12,WSH,@,CAR,L,,Alex Ovechkin,20-025,4,Andrew Cassels,,Cam Ward,1,10:28,EV,,RBC Center
+893,2005-10-10,WSH,,NYR,W,,Alex Ovechkin,20-023,3,Jamie Heward,Bryan Muir,Kevin Weekes,3,09:03,PP,,MCI Center
+894,2005-10-05,WSH,,CBJ,W,,Alex Ovechkin,20-018,1,Dainius Zubrus,Jeff Halpern,Pascal Leclaire,2,07:21,EV,,MCI Center
+895,2005-10-05,WSH,,CBJ,W,,Alex Ovechkin,20-018,2,Jeff Halpern,Mathieu Biron,Pascal Leclaire,2,11:51,PP,,MCI Center
